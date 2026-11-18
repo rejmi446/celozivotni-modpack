@@ -49,6 +49,10 @@ file = "config/hordes-common.toml"
 hash = "e0c4c0a5606f3b9a113d7261e069e6d87f2bd06bd3c8e2af03a531a079e49d24"
 
 [[files]]
+file = "config/hordes/data/hordes/horde_data/scripts/default.json"
+hash = "9dbb4eb2f302c533b4cce43faf1ae699d8fc91ac81558d1fd9d7886fa0bd95ce"
+
+[[files]]
 file = "config/hordes/data/hordes/horde_data/tables/default.json"
 hash = "8737f562cadf73b52e83df3aeefe8d1403fbe0b99eef5b99b81d50ee2b5c2a82"
 
@@ -146,8 +150,8 @@ hash = "22d9510588b081cf9905f6549d24bc11012aa8d9c7d38a8619ab9db5ccb7b9a8"
 metafile = true
 
 [[files]]
-file = "mods/celozivotni-upravy-1.1.0.jar"
-hash = "fa74de179a6a7734b674ab667ee6c78723870844c844d7faa93be653570b5028"
+file = "mods/celozivotni-upravy-1.2.0.jar"
+hash = "6af4246ed25703abef9eea185b5fd7a6e2e570bc3da8d57b16bbeb78a0473cac"
 
 [[files]]
 file = "mods/chefs-delight.pw.toml"
