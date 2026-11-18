@@ -73,6 +73,10 @@ file = "config/iceandfire/iaf-common.json"
 hash = "1c26dc62ee580613a8b6d2949346cdf53f43474bbf2e2f0ff34cd79615fb1956"
 
 [[files]]
+file = "config/iris.properties"
+hash = "daa59dde0c4556c918eacd533e667e63289d7f412034ce8b452e30c8eac05096"
+
+[[files]]
 file = "mods/aether.pw.toml"
 hash = "cc3f6e6e8f1838d16e47cce9241e32176279673efb1438ff4451ccffa9579b14"
 metafile = true
@@ -694,6 +698,10 @@ metafile = true
 file = "resourcepacks/fresh-animations.pw.toml"
 hash = "6a489b37b949921beffb24adb91d6f572c4ee82668b7dc15b8aaedd767476aad"
 metafile = true
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.9.3.zip.txt"
+hash = "42f32352258f1cadd23a2f98726e792c2ec27e7eda64bb2b3cdcebf97138f0fd"
 
 [[files]]
 file = "shaderpacks/bliss-shader.pw.toml"
