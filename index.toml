@@ -553,6 +553,10 @@ hash = "4ce7b2b172bcaa1e82f43362f12ebfa791612432351912f7c47ed3993033ddc0"
 metafile = true
 
 [[files]]
+file = "mods/stavebniprojekty-0.1.0.jar"
+hash = "1ce284cdf580710c97dd275d98ed3fb7d289d172cbb812c3784b7d2c4fedbf40"
+
+[[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
 hash = "62bd7012826fdcccf17a089055be67f87fb7335c88e73efc52bc9e51a1bf3188"
 metafile = true
