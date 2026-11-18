@@ -1,0 +1,488 @@
+{
+	chapter.3951CAD398A1F77D.chapter_subtitle: [
+		"Jídlo, které dává sílu"
+	]
+	chapter.3951CAD398A1F77D.title: "Kuchyně"
+	chapter.3B7C68A918B17EB0.chapter_subtitle: [
+		"Automatizace bez elektřiny"
+	]
+	chapter.3B7C68A918B17EB0.title: "Create"
+	chapter.409310F83E1FC8C2.chapter_subtitle: [
+		"Jak to tu chodí"
+	]
+	chapter.409310F83E1FC8C2.title: "Začátky"
+	chapter.446A1EAAE4165B8A.chapter_subtitle: [
+		"Boj, když ho chceš"
+	]
+	chapter.446A1EAAE4165B8A.title: "Vesnice a hordy"
+	chapter.4F3D1FF1DC999BA0.chapter_subtitle: [
+		"Iron's Spells 'n Spellbooks"
+	]
+	chapter.4F3D1FF1DC999BA0.title: "Magie"
+	chapter.5D8AEC37552A5CFE.chapter_subtitle: [
+		"Žebříček nebezpečí: od Overworldu po End"
+	]
+	chapter.5D8AEC37552A5CFE.title: "Výpravy"
+	chapter.7CDB1CF0290EC096.chapter_subtitle: [
+		"Začni tady"
+	]
+	chapter.7CDB1CF0290EC096.title: "Rozcestník"
+	image.118F3945EEF65303.title: "&6Create&r\nHřídele a ozubená kola přenášejí &esílu otáčení&r. Žádné kabely\nani elektřina: na každém stroji je vidět, jak funguje.\n&eBrýle&r (Goggles) ukážou, kolik síly stroje berou."
+	image.13440CF421F52952.title: "&6Kniha úkolů&r\nKlikni na téma a přeneseš se na jeho stezky."
+	image.1643759E142A6E4B.title: "Create"
+	image.17D675FBEEA3BF03.title: "Vesnice a hordy"
+	image.19D54A21FD72940C.title: "&eKouzla"
+	image.1B4BC856A3182ECE.title: "Výpravy"
+	image.1D12FD6C7709B5DF.title: "Kuchyně"
+	image.1E8D603117CF3B0E.title: "Vesnice a hordy"
+	image.21D4F40D322B8DF5.title: "&6Magie&r\nKouzla se vpisují do &eknihy kouzel&r. Najdeš je jako svitky\nv kouzelnických věžích a dungeonech, nebo si je vyrobíš."
+	image.230085E59D663C8B.title: "&ePivo a sýr"
+	image.251350C31D612E9E.title: "&eFarma a kuchyně"
+	image.26906F1F45889FAE.title: "&e5 · Dračí země"
+	image.269DBA7F76F2AC41.title: "Create"
+	image.2872DC941C28889E.title: "&eNářadí a vaření"
+	image.2885AB767429ED36.title: "Kuchyně"
+	image.2A0D9978259B5215.title: "Začátky"
+	image.2A1729A0E371A567.title: "Začátky"
+	image.2ABF4F99A7B62CA3.title: "Kuchyně"
+	image.37D1D93BBF360C97.title: "&eZa magií do světa"
+	image.388DB9CC4E869773.title: "&eNájezdy"
+	image.3BF591502BDE1BE5.title: "Začátky"
+	image.3C0312CFA4CF311C.title: "&6Začátky&r\nTahle kniha je průvodce, ne povinná cesta. Nic nezamyká:\núkoly můžeš plnit v jakémkoli pořadí, stezky jen radí, co dál.\n&aDoma je pohoda&r (žádné noční nájezdy), &cvenku jde o život&r."
+	image.42F17A3CB5F4CAF8.title: "&e2 · Velké dungeony"
+	image.43016DA487E75288.title: "&e3 · Twilight Forest"
+	image.44BB50848E7DEF56.title: "&e1 · Overworld"
+	image.47F314E893A71112.title: "Výpravy"
+	image.49533AF24BD43180.title: "&eVýroba"
+	image.4BA0498DBC4CC00E.title: "Vesnice a hordy"
+	image.4BC11D8165982BCF.title: "Magie"
+	image.51EBEB92E948CE37.title: "&e6 · End a Cataclysm"
+	image.56A8F3F3F137C041.title: "&6Vesnice a hordy&r\nDoma je klid: nájezdy ani hordy nepřijdou samy.\n&eSpustíš je ty&r, když se na ně cítíš."
+	image.570E04CDDCFD37DF.title: "&eSíla"
+	image.58979A5AD07DBBA3.title: "Magie"
+	image.5D29FD502B9DC949.title: "&eVesnice"
+	image.67F27BB123A13C69.title: "&6Výpravy&r · žebříček nebezpečí\nŠest úrovní od Overworldu po End. Nic nezamyká, je to rada,\nkam jít s jakou výbavou. Bossy hledej &eExplorer's Compassem&r.\nDungeony a druhy draků jsou volitelné."
+	image.6B9F139C794722D8.title: "&eOvládání"
+	image.6F8A8599C431DDC1.title: "&eHordy"
+	image.70A178721ACE5D00.title: "Magie"
+	image.70FC7F6BDB52C888.title: "Create"
+	image.712062C267A631ED.title: "&e4 · Aether"
+	image.73251CC2CED23E22.title: "Výpravy"
+	image.7400D05F5A3D39F3.title: "&eVybavení"
+	image.7B5AD626306AD470.title: "&6Kuchyně&r\nJídlo tu není jen proti hladu. Vařená jídla dávají &ebuffy&r,\npestrá strava přidává &esrdce&r a nápoje silné krátké efekty."
+	image.7DF3AFD7E1748C6F.title: "&e5 · Nether"
+	image.7F52172777F2011A.title: "&eVíno"
+	quest.100E0831C3476478.quest_subtitle: "Hádanky a pasti"
+	quest.100E0831C3476478.title: "Chrám v džungli"
+	quest.11BBE20B0091E3B3.title: "První obchod"
+	quest.120795DDD247F288.quest_desc: [
+		"Nebojuješ, šplháš. Sochař staví sloupy a ty musíš vylézt nahoru."
+	]
+	quest.120795DDD247F288.quest_subtitle: "Výzva na vrcholku hor"
+	quest.120795DDD247F288.title: "Sochař Tongbi"
+	quest.12C8A18B5AD16ED2.title: "Věž pyromanta"
+	quest.12F0C7E19AE10200.quest_subtitle: "Vylepšování výbavy kouzly"
+	quest.12F0C7E19AE10200.title: "Magická kovadlina"
+	quest.13938D46F58FAAB1.quest_desc: [
+		"Pod nádobu dej &eblaze burner&r a nakrm ho. Zinek najdeš v jeskyních."
+	]
+	quest.13938D46F58FAAB1.quest_subtitle: "Měď + zinek v rozpáleném mixéru"
+	quest.13938D46F58FAAB1.title: "Mosaz"
+	quest.13B4CCAD210C2B4C.quest_desc: [
+		"Vpravo v inventáři je seznam všech předmětů. Najeď na předmět a zmáčkni &eR&r pro recept, &eU&r pro použití."
+		""
+		"Hledá se podle anglického názvu (hra je v angličtině). Kozí roh = &oGoat Horn&r."
+	]
+	quest.13B4CCAD210C2B4C.quest_subtitle: "R = jak to vyrobit, U = k čemu to je"
+	quest.13B4CCAD210C2B4C.title: "Recepty (JEI)"
+	quest.13BFF28DBE78CA4D.quest_subtitle: "Pevnost v temném lese"
+	quest.13BFF28DBE78CA4D.title: "Fantomoví rytíři"
+	quest.15CEA1A32E339679.quest_desc: [
+		"Výživná jídla dávají &eNourishment&r: dlouho nemáš hlad. Pohodlná jídla dávají &eComfort&r: rychlejší léčení."
+	]
+	quest.15CEA1A32E339679.quest_subtitle: "Efekt Nourishment"
+	quest.15CEA1A32E339679.title: "Pořádné jídlo"
+	quest.168C6B3E8B705D3A.quest_subtitle: "Plechy a lisování"
+	quest.168C6B3E8B705D3A.title: "Mechanický lis"
+	quest.173E84AA95A4457B.title: "Netherová pevnost"
+	quest.177E22C3243D5A4C.title: "Bleskový drak"
+	quest.192B8ED887CEEA1D.quest_desc: [
+		"Postav rám jako do Netheru, ale z &eplačícího obsidiánu&r, a zapal ho křesadlem."
+		""
+		"Draci žijí jen tady: ohniví v pustinách, ledoví na ledových polích, bleskoví v bouřlivých skalách. V bažině hydra, na pobřeží kyklopové a gorgony, v moři sirény."
+	]
+	quest.192B8ED887CEEA1D.quest_subtitle: "Portál z plačícího obsidiánu"
+	quest.192B8ED887CEEA1D.title: "Dračí země"
+	quest.19CEE65D63450561.quest_subtitle: "Boss: Královna Valkýr"
+	quest.19CEE65D63450561.title: "Stříbrný dungeon"
+	quest.1A1D2A89B56D46C2.quest_subtitle: "Boss: Sluneční duch"
+	quest.1A1D2A89B56D46C2.title: "Zlatý dungeon"
+	quest.1A1E7DC892E67430.quest_desc: [
+		"Hnízdí na útesech u moře v horách."
+	]
+	quest.1A1E7DC892E67430.quest_subtitle: "Létající mořský had"
+	quest.1A1E7DC892E67430.title: "Naga"
+	quest.1AA819FEF0FC673E.quest_subtitle: "Zamrzlé vězení"
+	quest.1AA819FEF0FC673E.title: "Maledictus"
+	quest.1ABA601FD9169689.quest_subtitle: "V ohnivé bažině"
+	quest.1ABA601FD9169689.title: "Hydra"
+	quest.1AD9BD5A7391F1E7.quest_desc: [
+		"&eRecept&r: kozí roh + shnilé maso + kost + střelný prach."
+		"Horda nemrtvých, která s počtem dní ve světě sílí."
+	]
+	quest.1AD9BD5A7391F1E7.quest_subtitle: "Střední horda, 5 minut"
+	quest.1AD9BD5A7391F1E7.title: "Válečný roh"
+	quest.1BCE43E2E6A6762F.quest_subtitle: "Pasti a mumie"
+	quest.1BCE43E2E6A6762F.title: "Pouštní chrám"
+	quest.1C0B1B6E3956811A.quest_subtitle: "Očarování ambrosiem"
+	quest.1C0B1B6E3956811A.title: "Oltář"
+	quest.1FFE4A1502B3E830.quest_subtitle: "Doprava mezi základnami"
+	quest.1FFE4A1502B3E830.title: "Vláček"
+	quest.2019B61E1434652E.quest_desc: [
+		"&eNature's Compass&r ukáže cestu k biomu, &eExplorer's Compass&r ke stavbě (dungeon, chrám, vesnice)."
+		""
+		"Nejlepší pomocník, když hledáš konkrétního bosse."
+	]
+	quest.2019B61E1434652E.quest_subtitle: "Najdi biom nebo stavbu"
+	quest.2019B61E1434652E.title: "Kompasy"
+	quest.213127E412CDBE05.quest_subtitle: "Palác na ledovci"
+	quest.213127E412CDBE05.title: "Sněhová královna"
+	quest.2256E06DC1EB8D98.title: "Pevnost evokerů"
+	quest.2380C292C79D57CA.quest_desc: [
+		"Vykopej jámu 2×2 a napusť ji vodou. Kolem dokola na trávu nasázej květiny. Hoď do vody &ediamant&r."
+		""
+		"Bossy je potřeba porážet popořadě: dokud nezabiješ předchozího, další oblast tě nepustí."
+	]
+	quest.2380C292C79D57CA.quest_subtitle: "Úroveň 3 · portál z vody, květin a diamantu"
+	quest.2380C292C79D57CA.title: "Twilight Forest"
+	quest.23FE9795096BB208.title: "Mixér a nádoba"
+	quest.251319AE71295F97.quest_subtitle: "Temná věž"
+	quest.251319AE71295F97.title: "Ur-Ghast"
+	quest.25CFF5FF30BDE301.title: "Na zdraví!"
+	quest.25E34852FAA99F8C.quest_desc: [
+		"Vyrobíš ji z andezitu a železných nugetů."
+	]
+	quest.25E34852FAA99F8C.quest_subtitle: "Základ všech strojů"
+	quest.25E34852FAA99F8C.title: "Andezitová slitina"
+	quest.26A5E3B6E775DD9D.quest_subtitle: "Jeskyně v bažině"
+	quest.26A5E3B6E775DD9D.title: "Hydra"
+	quest.27227E824C3966D3.title: "Ledový drak"
+	quest.28142CC12AD7D97D.quest_subtitle: "Výroba po krocích (sekvence)"
+	quest.28142CC12AD7D97D.title: "Přesný mechanismus"
+	quest.2869F4210E615F6C.quest_desc: [
+		"V soudku (keg) se kvasí pivo, medovina i sýr."
+	]
+	quest.2869F4210E615F6C.quest_subtitle: "Brewin' and Chewin'"
+	quest.2869F4210E615F6C.title: "Pivovar"
+	quest.2896707CABAD8E19.quest_desc: [
+		"Kniha jde do zvláštního slotu. Kouzla přepínáš a sesíláš klávesami (nastav v Controls)."
+	]
+	quest.2896707CABAD8E19.quest_subtitle: "Vybav si ji (slot pro knihu)"
+	quest.2896707CABAD8E19.title: "První kniha kouzel"
+	quest.29F833F6BA3CFB9C.title: "Blaze"
+	quest.2A4AC69F3BF03ABC.quest_subtitle: "Akropole"
+	quest.2A4AC69F3BF03ABC.title: "Scylla"
+	quest.2AB66F2533D3B742.quest_subtitle: "Jeskyně na pobřeží"
+	quest.2AB66F2533D3B742.title: "Kyklop"
+	quest.2AE32A3205425D88.quest_subtitle: "Mouka, barviva, štěrk…"
+	quest.2AE32A3205425D88.title: "Mlýnský kámen"
+	quest.2BA0B75C1F249DE4.title: "Slévárna"
+	quest.2D03D84196C739C6.quest_subtitle: "Kouzelník na vrcholu věže"
+	quest.2D03D84196C739C6.title: "Lich"
+	quest.2D9DD906A66336BB.quest_subtitle: "Robotická ruka, co kliká za tebe"
+	quest.2D9DD906A66336BB.title: "Deployer"
+	quest.2DBB1767D7C7252B.quest_subtitle: "Zřícená citadela v Endu"
+	quest.2DBB1767D7C7252B.title: "Ender Guardian"
+	quest.2DF117F4E41185F2.quest_subtitle: "Jeskyně ve sněžném lese"
+	quest.2DF117F4E41185F2.title: "Alfa Yeti"
+	quest.2E163BABBBDDBC81.quest_desc: [
+		"Pohled gorgony zkamení. Bojuj se slepotou nebo se dívej jinam."
+	]
+	quest.2E163BABBBDDBC81.quest_subtitle: "Nedívej se jí do očí"
+	quest.2E163BABBBDDBC81.title: "Hlava gorgony"
+	quest.308884E854080F20.quest_desc: [
+		"Postav rám jako do Netheru, ale z &eglowstonu&r. Zapálíš ho vylitím &ekbelíku vody&r dovnitř."
+		""
+		"Pozor na pády z ostrovů."
+	]
+	quest.308884E854080F20.quest_subtitle: "Úroveň 4 · portál z glowstonu"
+	quest.308884E854080F20.title: "Aether"
+	quest.30EA593782DFD2E8.quest_subtitle: "Cesta do Endu začíná tady"
+	quest.30EA593782DFD2E8.title: "Pevnost (Stronghold)"
+	quest.32984EF25F01B6C7.quest_subtitle: "Nejlepší kov Aetheru"
+	quest.32984EF25F01B6C7.title: "Očarovaný gravitit"
+	quest.33D1128537DB5456.quest_subtitle: "[Let's Do] Vinery"
+	quest.33D1128537DB5456.title: "Lis na jablka"
+	quest.34C570494A397D5B.quest_desc: [
+		"Vpravo nahoře je minimapa. &eM&r otevře velkou mapu světa, &eB&r přidá bod (waypoint)."
+		""
+		"Na velké mapě jsou i &eoblasti&r (regiony), sem patří stavební projekty."
+	]
+	quest.34C570494A397D5B.quest_subtitle: "Klávesa M"
+	quest.34C570494A397D5B.title: "Mapa a body"
+	quest.35336E82F8B121EB.quest_desc: [
+		"Organický kompost se časem změní v bohatou půdu. Rostliny na ní rostou rychleji."
+	]
+	quest.35336E82F8B121EB.quest_subtitle: "Kompost → lepší úroda"
+	quest.35336E82F8B121EB.title: "Bohatá půda"
+	quest.377B7A7907B21E85.quest_desc: [
+		"Hordy přijdou jen, když na ně zatroubíš. Horda jde za tebou, klidně až k základně."
+		""
+		"&eRecept&r (bez tvaru): kozí roh + shnilé maso + kost."
+		"Přijdou zombie a husky. Roh po použití zmizí."
+	]
+	quest.377B7A7907B21E85.quest_subtitle: "Lehká horda, 3 minuty"
+	quest.377B7A7907B21E85.title: "Roh potyčky"
+	quest.37F53B6553367252.title: "Illagerská pevnost"
+	quest.38278C4B9B35EC82.title: "Pánev"
+	quest.3867CE92D0B9C8CC.quest_subtitle: "Prastará továrna"
+	quest.3867CE92D0B9C8CC.title: "Harbinger"
+	quest.389B09B2A5AC5AC6.quest_subtitle: "Poraž všechny bosse Cataclysmu"
+	quest.389B09B2A5AC5AC6.title: "Legenda serveru"
+	quest.38D477CF2D33695F.title: "Železná výbava"
+	quest.392C7C3C30478060.quest_subtitle: "Kovárna duší v Netheru"
+	quest.392C7C3C30478060.title: "Netherite Monstrosity"
+	quest.39F5E411049021ED.quest_subtitle: "Labyrint v bažině"
+	quest.39F5E411049021ED.title: "Minoshroom"
+	quest.3AF9BF59E6F01C07.quest_desc: [
+		"Hrozny vylisuj, šťávu nech kvasit v sudu. Víno časem zraje a je lepší."
+	]
+	quest.3AF9BF59E6F01C07.title: "Vinař"
+	quest.3D2BD85FD6C3D3C7.quest_desc: [
+		"Hoď na něj lektvar slabosti a dej mu zlaté jablko. Vyléčený ti dá slevu."
+	]
+	quest.3D2BD85FD6C3D3C7.quest_subtitle: "Vyleč zombie vesničana"
+	quest.3D2BD85FD6C3D3C7.title: "Doktor"
+	quest.3DBB947A2759314D.quest_subtitle: "Hodně síly z ohně a vody"
+	quest.3DBB947A2759314D.title: "Parní stroj"
+	quest.3E837DF9739C2563.quest_subtitle: "Boss: Slider"
+	quest.3E837DF9739C2563.title: "Bronzový dungeon"
+	quest.3EBEE32860B20710.quest_desc: [
+		"Velká jídla (pečené kuře, pastýřský koláč…) se položí na stůl a každý si ukrojí."
+	]
+	quest.3EBEE32860B20710.quest_subtitle: "Jídlo pro celou partu"
+	quest.3EBEE32860B20710.title: "Hostina"
+	quest.3FE541BEB4ABB25A.title: "Ender drak"
+	quest.424EDB9D7B3BAA7B.quest_subtitle: "Vlastní svitky z inkoustu"
+	quest.424EDB9D7B3BAA7B.title: "Výheň svitků"
+	quest.43560C8DDD55B725.quest_desc: [
+		"Do formy nalij mléko a vznikne sýr. Krávy, kozy, ovce i buvoli dávají každý jiný."
+	]
+	quest.43560C8DDD55B725.quest_subtitle: "[Let's Do] Meadow"
+	quest.43560C8DDD55B725.title: "Sýrárna"
+	quest.47693523E0557921.title: "Ohnivý drak"
+	quest.4930311EFA09E76A.quest_subtitle: "Nejlepší kov ve hře"
+	quest.4930311EFA09E76A.title: "Dračí ocel"
+	quest.49B4E6E188F13D33.quest_desc: [
+		"Nejsilnější z nových illagerů. Létá, štítí se a vyvolává pomocníky."
+	]
+	quest.49B4E6E188F13D33.quest_subtitle: "Illager Invasion"
+	quest.49B4E6E188F13D33.title: "Vyvolávač"
+	quest.4A928BABE82D4746.quest_subtitle: "Prokletá pyramida v poušti"
+	quest.4A928BABE82D4746.title: "Ancient Remnant"
+	quest.4AD4F70EA4A6752C.quest_desc: [
+		"Ložisko větrného mlýna + plachty. Čím víc plachet, tím víc síly."
+	]
+	quest.4AD4F70EA4A6752C.title: "Větrný mlýn"
+	quest.4AD84828FA5FACF3.quest_desc: [
+		"Vládce kmene Umvuthana v savaně."
+	]
+	quest.4AD84828FA5FACF3.quest_subtitle: "Sluneční pták"
+	quest.4AD84828FA5FACF3.title: "Umvuthi"
+	quest.4DA988BEDF081E12.quest_desc: [
+		"Zabij &ekapitána nájezdníků&r (nese prapor). Padne z něj &ezlověstná lahev&r."
+		""
+		"Vypiješ ji a vejdeš do vesnice = začne nájezd. Rozhoduješ ty, kdy."
+	]
+	quest.4DA988BEDF081E12.quest_subtitle: "Zabij kapitána s praporem"
+	quest.4DA988BEDF081E12.title: "Nájezd na požádání"
+	quest.4E651F284011FF6D.quest_desc: [
+		"Esenci najdeš v truhlách kouzelnických věží a padá z kouzelníků. Vyrobíš z ní všechno ostatní."
+	]
+	quest.4E651F284011FF6D.quest_subtitle: "Odkud se bere magie"
+	quest.4E651F284011FF6D.title: "Magická esence"
+	quest.4F25674B8606B328.quest_subtitle: "Jednorázové kouzlo nebo náplň do knihy"
+	quest.4F25674B8606B328.title: "Svitek"
+	quest.508E4D6BC0886788.quest_desc: [
+		"Silný nemrtvý kouzelník. Jdi s výbavou a jídlem."
+	]
+	quest.508E4D6BC0886788.quest_subtitle: "Boss katakomb"
+	quest.508E4D6BC0886788.title: "Mrtvý král"
+	quest.50BD0900C01084DB.quest_desc: [
+		"Batoh se dá vylepšovat (železo, zlato, diamant…) a dávat do něj vylepšení, třeba automatické sbírání nebo jídlo."
+	]
+	quest.50BD0900C01084DB.quest_subtitle: "Víc místa na výpravy"
+	quest.50BD0900C01084DB.title: "Batoh"
+	quest.50CFE617A020FDAE.quest_subtitle: "Lektvary a rozklad svitků"
+	quest.50CFE617A020FDAE.title: "Alchymistický kotel"
+	quest.528C386223D05C6E.quest_subtitle: "Tři lebky wither kostlivců + písek duší"
+	quest.528C386223D05C6E.title: "Wither"
+	quest.53011A05B66164D8.quest_desc: [
+		"Nožem krájíš na &eprkénku&r a sbíráš slámu z trávy."
+	]
+	quest.53011A05B66164D8.quest_subtitle: "Základ každé kuchyně"
+	quest.53011A05B66164D8.title: "Kuchyňský nůž"
+	quest.533F0DE12FC9680B.title: "Křídla"
+	quest.54BFAF352EA7F00D.quest_desc: [
+		"Zkušenosti jako tekutina a očarování na pásu."
+	]
+	quest.54BFAF352EA7F00D.quest_subtitle: "Create: Enchantment Industry"
+	quest.54BFAF352EA7F00D.title: "Kouzlení strojem"
+	quest.554BAC3D72154BEF.quest_desc: [
+		"&eRecept&r: kozí roh + shnilé maso + kost + střelný prach + diamant."
+		"Zombie, kostlivci, pavouci, creepeři, čarodějnice, illageři i ravageři."
+		""
+		"&cCreepeři a ravageři ničí bloky&r, doma si to rozmysli."
+	]
+	quest.554BAC3D72154BEF.quest_subtitle: "Těžká horda, 10 minut"
+	quest.554BAC3D72154BEF.title: "Roh zkázy"
+	quest.55674030623BD62F.quest_desc: [
+		"Po smrti se tvoje věci uloží do &ehrobu&r na místě smrti. Klikni na něj a věci jsou zpátky."
+		""
+		"Dostaneš i &eparte&r (Obituary) se souřadnicemi."
+	]
+	quest.55674030623BD62F.quest_subtitle: "Věci počkají v hrobě"
+	quest.55674030623BD62F.title: "Když umřeš"
+	quest.55CE0D03ECDC55F1.quest_desc: [
+		"Čeká v podzemní komnatě. Zranitelný je jen zezadu, když se mu sekera zasekne."
+	]
+	quest.55CE0D03ECDC55F1.quest_subtitle: "Ferrous Wroughtnaut"
+	quest.55CE0D03ECDC55F1.title: "Železný rytíř"
+	quest.55D3F59D7C8D7A22.title: "Klíč a brýle"
+	quest.56A216D4DA6A7861.title: "Prkénko"
+	quest.56A4A8E1660ECB83.quest_desc: [
+		"Draci rostou: mladé najdeš v jeskyních, dospělé u hnízd na povrchu. Proti ohnivému drakovi ledová výbava a naopak."
+	]
+	quest.56A4A8E1660ECB83.quest_subtitle: "Zabij draka"
+	quest.56A4A8E1660ECB83.title: "Drakobijce"
+	quest.58AD1F8EE0B55B53.quest_desc: [
+		"Na nástěnce ve vesnici najdeš zakázky: přines předměty a dostaneš odměnu."
+	]
+	quest.58AD1F8EE0B55B53.quest_subtitle: "Village Bounties"
+	quest.58AD1F8EE0B55B53.title: "Zakázka z nástěnky"
+	quest.59ECA318BD8E8D77.quest_subtitle: "Úroveň 6 · End a Cataclysm"
+	quest.59ECA318BD8E8D77.title: "End"
+	quest.5A351F1114E6FC45.quest_desc: [
+		"V ledovém oceánu je bludiště z ledu. Pozor na úhoře a lodní vraky."
+	]
+	quest.5A351F1114E6FC45.quest_subtitle: "Aquamirae: zamrzlé moře"
+	quest.5A351F1114E6FC45.title: "Ledové bludiště"
+	quest.5A528BBD651DB162.quest_desc: [
+		"Na stole vpisuješ kouzla ze svitků do knihy kouzel."
+	]
+	quest.5A528BBD651DB162.quest_subtitle: "Inscription Table"
+	quest.5A528BBD651DB162.title: "Zápisový stůl"
+	quest.5E1672E67F53DC64.quest_desc: [
+		"Ventilátor foukající přes oheň peče, přes lávu taví, přes vodu pere. Funguje na předměty na zemi i na pásech."
+	]
+	quest.5E1672E67F53DC64.quest_subtitle: "Pečení, praní a tavení proudem vzduchu"
+	quest.5E1672E67F53DC64.title: "Ventilátor"
+	quest.5E573857FA1F810B.quest_desc: [
+		"Tahle kniha je &eprůvodce&r, ne povinná cesta. Nic nezamyká: úkoly můžeš plnit v jakémkoli pořadí, stezky jen radí, co dál."
+		""
+		"&aDoma je pohoda&r: v noci u domu nejsou nájezdy. &cVenku jde o život&r: dungeony, jiné dimenze a bossové."
+		""
+		"Klikni na jedno z šesti témat a otevře se jeho stezka. Zpátky sem se dostaneš přes seznam kapitol vlevo."
+	]
+	quest.5E573857FA1F810B.quest_subtitle: "Jak tahle kniha funguje"
+	quest.5E573857FA1F810B.title: "Vítej na serveru"
+	quest.6049A36CA2655362.quest_desc: [
+		"Spí v zasněžených biomech. Probudíš ho, když ho praštíš."
+	]
+	quest.6049A36CA2655362.quest_subtitle: "Ledový obr"
+	quest.6049A36CA2655362.title: "Frostmaw"
+	quest.6190FFF76DEE4278.title: "Diamanty!"
+	quest.61E6614FB9FD9472.quest_desc: [
+		"Vejce najdeš v hnízdech. Vylíhne se v ohni, ledu nebo bouři podle druhu."
+	]
+	quest.61E6614FB9FD9472.quest_subtitle: "Vlastní drak?"
+	quest.61E6614FB9FD9472.title: "Dračí vejce"
+	quest.625C76FB413F1E08.quest_subtitle: "Kovárna na dračí dech"
+	quest.625C76FB413F1E08.title: "Dračí výheň"
+	quest.639EFC301C1609DF.quest_subtitle: "Úroveň 5 · Nether a Dračí země"
+	quest.639EFC301C1609DF.title: "Nether"
+	quest.63D6C25B4ED6C8BB.quest_desc: [
+		"Nájezdy jsou s módy pestřejší: noví illageři (čaroděj, inkvizitor, basher…), lodě i vzducholodě."
+	]
+	quest.63D6C25B4ED6C8BB.quest_subtitle: "Ubraň vesnici"
+	quest.63D6C25B4ED6C8BB.title: "Hrdina vesnice"
+	quest.67983F480FEA2AC8.quest_desc: [
+		"Dej ho do tekoucí vody. Víc kol = víc síly."
+	]
+	quest.67983F480FEA2AC8.quest_subtitle: "První zdroj síly"
+	quest.67983F480FEA2AC8.title: "Vodní kolo"
+	quest.6A3969C0D89EC70B.quest_subtitle: "Hořící aréna v Netheru"
+	quest.6A3969C0D89EC70B.title: "Ignis"
+	quest.6BBF18D7AB844D16.quest_desc: [
+		"Připevni žací stroj na pohyblivou konstrukci (píst, ložisko, vláček) a sklízí sám."
+	]
+	quest.6BBF18D7AB844D16.quest_subtitle: "Stroje na pojízdné plošině"
+	quest.6BBF18D7AB844D16.title: "Automatická farma"
+	quest.6BD1922D789E4E90.quest_desc: [
+		"Postav hrnec nad oheň nebo táborák. Vaří až 6 surovin naráz."
+	]
+	quest.6BD1922D789E4E90.quest_subtitle: "Polévky a guláše"
+	quest.6BD1922D789E4E90.title: "Hrnec"
+	quest.6BDE48AD0E5C7418.quest_subtitle: "Zabij Elder Guardiana"
+	quest.6BDE48AD0E5C7418.title: "Oceánský monument"
+	quest.6E388D5831759D6D.quest_subtitle: "Vzducholoď v oblacích"
+	quest.6E388D5831759D6D.title: "Nebeský dobyvatel"
+	quest.6E8F649CDA7F93FF.quest_desc: [
+		"Kdo má Simple Voice Chat, slyší ostatní podle vzdálenosti. Nastavení otevře klávesa &eV&r."
+	]
+	quest.6E8F649CDA7F93FF.quest_subtitle: "Volitelné"
+	quest.6E8F649CDA7F93FF.title: "Hlasový chat"
+	quest.70C171C37256AAFF.title: "Morový azyl"
+	quest.70FC4BD822CA9DC9.quest_subtitle: "Víc many"
+	quest.70FC4BD822CA9DC9.title: "Prsten many"
+	quest.711DBEFFFE7B7245.quest_subtitle: "Velké recepty automaticky"
+	quest.711DBEFFFE7B7245.title: "Mechanický crafter"
+	quest.714A908E147A73CD.quest_subtitle: "Potopené město v oceánu"
+	quest.714A908E147A73CD.title: "Leviathan"
+	quest.71CA260AA1242BC7.title: "Zanit"
+	quest.725E5E56DE2537FC.quest_desc: [
+		"Ve vesnicích stojí &ewaystony&r. Klikni na něj, aktivuje se a můžeš se mezi aktivovanými přenášet."
+		""
+		"Vlastní waystone u domu si můžeš i vyrobit."
+	]
+	quest.725E5E56DE2537FC.quest_subtitle: "Rychlé cestování"
+	quest.725E5E56DE2537FC.title: "Waystony"
+	quest.744A3FF7480BF969.quest_subtitle: "End je s Nullscape divočejší"
+	quest.744A3FF7480BF969.title: "Endové město"
+	quest.7467016EF0342970.title: "Mechanické hnízdo"
+	quest.770D829EDAEB7C12.quest_desc: [
+		"Věže hlídají kouzelníci. Svitky a esence v truhlách stojí za to."
+	]
+	quest.770D829EDAEB7C12.quest_subtitle: "Na horách"
+	quest.770D829EDAEB7C12.title: "Kouzelnická věž"
+	quest.77B076AC98DD7070.quest_subtitle: "Kniha o tvorech"
+	quest.77B076AC98DD7070.title: "Bestiář"
+	quest.77C7AC827B14D1B2.quest_subtitle: "Had v kamenném nádvoří"
+	quest.77C7AC827B14D1B2.title: "Naga"
+	quest.77D894515F77BA03.quest_desc: [
+		"&eSpice of Life&r: za každé &enové&r jídlo, které sníš, se blížíš k dalšímu srdci navíc. Kniha jídel ukáže, co už máš."
+	]
+	quest.77D894515F77BA03.quest_subtitle: "Každé nové jídlo = víc srdcí"
+	quest.77D894515F77BA03.title: "Pestrá strava"
+	quest.78BD940BE5F6BD7C.quest_subtitle: "Přežij setkání"
+	quest.78BD940BE5F6BD7C.title: "Ničitel lodí"
+	quest.79F5B06F4E858508.quest_subtitle: "Duch pirátky"
+	quest.79F5B06F4E858508.title: "Kapitánka Cornelia"
+	quest.7E55DB55AEBAE026.quest_subtitle: "Podzemí plné nemrtvých"
+	quest.7E55DB55AEBAE026.title: "Katakomby"
+	quest.7F099ABBF4B5A405.quest_desc: [
+		"Slicer krájí a vaří recepty z Farmer's Delight automaticky."
+	]
+	quest.7F099ABBF4B5A405.quest_subtitle: "Slice & Dice + Farmer's Delight"
+	quest.7F099ABBF4B5A405.title: "Automatická kuchyně"
+	task.2911979BCFE31250.title: "Splnil jsem zakázku"
+	task.2B97B9D1B4FA39B0.title: "Umím hledat recepty"
+	task.2FF0E204B5555C74.title: "Rozumím"
+	task.3594CF4E68F7E4A4.title: "Přežil jsem"
+	task.453C1768998E4F4D.title: "Zatroubil jsem"
+	task.45763C41ECEA5EAF.title: "Mám mapu"
+	task.49500881A781E881.title: "Zatroubil jsem"
+	task.4CB3BFD42802585A.title: "Aktivoval jsem waystone"
+	task.67FF9BDDC1391EBB.title: "Přečteno"
+	task.77D26DF11A60C154.title: "Nastaveno"
+}

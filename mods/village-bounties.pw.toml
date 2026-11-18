@@ -1,0 +1,13 @@
+name = "Village Bounties"
+filename = "village_bounties-1.3_1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/q3FFq595/versions/EbVilyb4/village_bounties-1.3_1.21.1.jar"
+hash-format = "sha512"
+hash = "2cf640be6d621c888eec1fcc971b460b286aa565f4da26743eab16b2db0c2237ba087e60c4bfe5b29a498e7248ab0525c4f79d93283cbd7ce6d6d9dcfa704ba4"
+
+[update]
+[update.modrinth]
+mod-id = "q3FFq595"
+version = "EbVilyb4"

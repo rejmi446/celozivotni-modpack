@@ -1,0 +1,13 @@
+name = "Celoživotní server"
+author = "Parta"
+version = "0.1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "437fdb9d3f6cdbd13860d3b5932369bbc8f8ed0604b9e039325de549c8aa6e7d"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.266"

@@ -1,0 +1,462 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "domov"
+	group: ""
+	icon: {
+		count: 1
+		id: "farmersdelight:cooking_pot"
+	}
+	id: "3951CAD398A1F77D"
+	images: [
+		{
+			corner: false
+			dev: false
+			height: 1.7999999999999998d
+			hover: [
+				"Kuchyně"
+			]
+			id: "1D12FD6C7709B5DF"
+			image: "item:farmersdelight:cooking_pot"
+			order: 0
+			rotation: 0.0d
+			text_h_align: "center"
+			text_inset: 0
+			text_on_image: false
+			text_shadow: true
+			text_v_align: "center"
+			width: 1.7999999999999998d
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			alpha: 150
+			corner: false
+			dev: false
+			height: 1.2900000000000003d
+			hover: [
+				"&6Kuchyně&r"
+				"Jídlo tu není jen proti hladu. Vařená jídla dávají &ebuffy&r,"
+				"pestrá strava přidává &esrdce&r a nápoje silné krátké efekty."
+			]
+			id: "7B5AD626306AD470"
+			image: "#101010"
+			order: 0
+			rotation: 0.0d
+			text_h_align: "center"
+			text_inset: 0
+			text_on_image: true
+			text_shadow: true
+			text_v_align: "center"
+			width: 8.124d
+			x: 0.0d
+			y: -3.42d
+		}
+		{
+			corner: false
+			dev: false
+			height: 0.36d
+			hover: [
+				"&eNářadí a vaření"
+			]
+			id: "2872DC941C28889E"
+			image: "none"
+			order: 0
+			rotation: 0.0d
+			text_h_align: "center"
+			text_inset: 0
+			text_on_image: true
+			text_shadow: true
+			text_v_align: "center"
+			width: 2.6999999999999997d
+			x: -2.1d
+			y: -1.47d
+		}
+		{
+			corner: false
+			dev: false
+			height: 0.36d
+			hover: [
+				"&ePivo a sýr"
+			]
+			id: "230085E59D663C8B"
+			image: "none"
+			order: 0
+			rotation: 0.0d
+			text_h_align: "center"
+			text_inset: 0
+			text_on_image: true
+			text_shadow: true
+			text_v_align: "center"
+			width: 2.6999999999999997d
+			x: 2.1d
+			y: -2.22d
+		}
+		{
+			corner: false
+			dev: false
+			height: 0.36d
+			hover: [
+				"&eVíno"
+			]
+			id: "7F52172777F2011A"
+			image: "none"
+			order: 0
+			rotation: 0.0d
+			text_h_align: "center"
+			text_inset: 0
+			text_on_image: true
+			text_shadow: true
+			text_v_align: "center"
+			width: 2.6999999999999997d
+			x: 2.1d
+			y: 0.78d
+		}
+	]
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: [ ]
+			id: "53011A05B66164D8"
+			rewards: [
+				{
+					id: "41107B27AC439C54"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+			]
+			size: 0.6d
+			tasks: [
+				{
+					advancement: "farmersdelight:main/craft_knife"
+					criterion: ""
+					id: "3FC3A9BC76DDAE0C"
+					type: "advancement"
+				}
+			]
+			x: -2.1d
+			y: -0.75d
+		}
+		{
+			dependencies: [
+				"53011A05B66164D8"
+			]
+			id: "56A216D4DA6A7861"
+			rewards: [
+				{
+					id: "7D19D964E961C609"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+			]
+			size: 0.6d
+			tasks: [
+				{
+					count: 1L
+					id: "62D33836B393DDDC"
+					item: {
+						count: 1
+						id: "farmersdelight:cutting_board"
+					}
+					type: "item"
+				}
+			]
+			x: -3.3d
+			y: -0.75d
+		}
+		{
+			dependencies: [
+				"56A216D4DA6A7861"
+			]
+			id: "6BD1922D789E4E90"
+			rewards: [
+				{
+					id: "44C8B250A918E78F"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+			]
+			size: 0.6d
+			tasks: [
+				{
+					count: 1L
+					id: "422720B345CDC365"
+					item: {
+						count: 1
+						id: "farmersdelight:cooking_pot"
+					}
+					type: "item"
+				}
+			]
+			x: -4.5d
+			y: -0.75d
+		}
+		{
+			dependencies: [
+				"6BD1922D789E4E90"
+			]
+			id: "38278C4B9B35EC82"
+			rewards: [
+				{
+					id: "1B3520335E3F6A42"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+			]
+			size: 0.6d
+			tasks: [
+				{
+					count: 1L
+					id: "2DEB90E1BB2FDD65"
+					item: {
+						count: 1
+						id: "farmersdelight:skillet"
+					}
+					type: "item"
+				}
+			]
+			x: -5.7d
+			y: -0.75d
+		}
+		{
+			dependencies: [
+				"38278C4B9B35EC82"
+			]
+			id: "15CEA1A32E339679"
+			rewards: [
+				{
+					id: "487623FD188A47A8"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+			size: 0.6d
+			tasks: [
+				{
+					advancement: "farmersdelight:main/eat_nourishing_food"
+					criterion: ""
+					id: "3A7F944C1E7AD552"
+					type: "advancement"
+				}
+			]
+			x: -6.8999999999999995d
+			y: -0.75d
+		}
+		{
+			dependencies: [
+				"15CEA1A32E339679"
+			]
+			id: "77D894515F77BA03"
+			rewards: [
+				{
+					id: "61355169D820071A"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+			size: 0.6d
+			tasks: [
+				{
+					count: 1L
+					id: "526E23BAD3B14501"
+					item: {
+						count: 1
+						id: "solonion:food_book"
+					}
+					type: "item"
+				}
+			]
+			x: -8.1d
+			y: -0.75d
+		}
+		{
+			dependencies: [
+				"77D894515F77BA03"
+			]
+			id: "35336E82F8B121EB"
+			rewards: [
+				{
+					id: "382C92C7D6A6BD71"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+			]
+			size: 0.6d
+			tasks: [
+				{
+					advancement: "farmersdelight:main/get_rich_soil"
+					criterion: ""
+					id: "6BAF7A76DC0A2B2E"
+					type: "advancement"
+				}
+			]
+			x: -8.1d
+			y: 0.75d
+		}
+		{
+			dependencies: [
+				"35336E82F8B121EB"
+			]
+			id: "3EBEE32860B20710"
+			rewards: [
+				{
+					id: "232626F925E06BDB"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+			size: 0.6d
+			tasks: [
+				{
+					advancement: "farmersdelight:main/place_feast"
+					criterion: ""
+					id: "2623EC6900B717CB"
+					type: "advancement"
+				}
+			]
+			x: -6.8999999999999995d
+			y: 0.75d
+		}
+		{
+			dependencies: [ ]
+			id: "2869F4210E615F6C"
+			rewards: [
+				{
+					id: "6E3BA9A9680364B3"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+			]
+			size: 0.6d
+			tasks: [
+				{
+					count: 1L
+					id: "7047F66342930D0A"
+					item: {
+						count: 1
+						id: "brewinandchewin:keg"
+					}
+					type: "item"
+				}
+			]
+			x: 2.1d
+			y: -1.5d
+		}
+		{
+			dependencies: [
+				"2869F4210E615F6C"
+			]
+			id: "25CFF5FF30BDE301"
+			rewards: [
+				{
+					id: "20B51DAEB6813B2F"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+			size: 0.6d
+			tasks: [
+				{
+					count: 1L
+					id: "3401214B52B97276"
+					item: {
+						count: 1
+						id: "brewinandchewin:beer"
+					}
+					type: "item"
+				}
+			]
+			x: 3.3d
+			y: -1.5d
+		}
+		{
+			dependencies: [
+				"25CFF5FF30BDE301"
+			]
+			id: "43560C8DDD55B725"
+			rewards: [
+				{
+					id: "5D5CC1B784C63ABA"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+			]
+			size: 0.6d
+			tasks: [
+				{
+					count: 1L
+					id: "23C4B43303168928"
+					item: {
+						count: 1
+						id: "meadow:cheese_form"
+					}
+					type: "item"
+				}
+			]
+			x: 4.5d
+			y: -1.5d
+		}
+		{
+			dependencies: [ ]
+			id: "33D1128537DB5456"
+			rewards: [
+				{
+					id: "3D1A7159E988A1B4"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+			]
+			size: 0.6d
+			tasks: [
+				{
+					count: 1L
+					id: "51C9F5ED3B91BFA1"
+					item: {
+						count: 1
+						id: "vinery:apple_press"
+					}
+					type: "item"
+				}
+			]
+			x: 2.1d
+			y: 1.5d
+		}
+		{
+			dependencies: [
+				"33D1128537DB5456"
+			]
+			id: "3AF9BF59E6F01C07"
+			rewards: [
+				{
+					id: "1B5D34F48DFD6BAC"
+					type: "xp_levels"
+					xp_levels: 6
+				}
+			]
+			size: 0.6d
+			tasks: [
+				{
+					count: 1L
+					id: "21BFD9AB87E9E0D7"
+					item: {
+						count: 1
+						id: "vinery:fermentation_barrel"
+					}
+					type: "item"
+				}
+				{
+					count: 1L
+					id: "354D7269998992F6"
+					item: {
+						count: 1
+						id: "vinery:red_wine"
+					}
+					type: "item"
+				}
+			]
+			x: 3.3d
+			y: 1.5d
+		}
+	]
+}

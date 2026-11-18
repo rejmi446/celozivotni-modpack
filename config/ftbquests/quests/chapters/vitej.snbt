@@ -1,0 +1,318 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "vitej"
+	group: ""
+	icon: {
+		count: 1
+		id: "minecraft:book"
+	}
+	id: "409310F83E1FC8C2"
+	images: [
+		{
+			corner: false
+			dev: false
+			height: 1.7999999999999998d
+			hover: [
+				"Začátky"
+			]
+			id: "2A1729A0E371A567"
+			image: "item:minecraft:book"
+			order: 0
+			rotation: 0.0d
+			text_h_align: "center"
+			text_inset: 0
+			text_on_image: false
+			text_shadow: true
+			text_v_align: "center"
+			width: 1.7999999999999998d
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			alpha: 150
+			corner: false
+			dev: false
+			height: 1.62d
+			hover: [
+				"&6Začátky&r"
+				"Tahle kniha je průvodce, ne povinná cesta. Nic nezamyká:"
+				"úkoly můžeš plnit v jakémkoli pořadí, stezky jen radí, co dál."
+				"&aDoma je pohoda&r (žádné noční nájezdy), &cvenku jde o život&r."
+			]
+			id: "3C0312CFA4CF311C"
+			image: "#101010"
+			order: 0
+			rotation: 0.0d
+			text_h_align: "center"
+			text_inset: 0
+			text_on_image: true
+			text_shadow: true
+			text_v_align: "center"
+			width: 8.784d
+			x: 0.0d
+			y: -1.92d
+		}
+		{
+			corner: false
+			dev: false
+			height: 0.36d
+			hover: [
+				"&eOvládání"
+			]
+			id: "6B9F139C794722D8"
+			image: "none"
+			order: 0
+			rotation: 0.0d
+			text_h_align: "center"
+			text_inset: 0
+			text_on_image: true
+			text_shadow: true
+			text_v_align: "center"
+			width: 2.6999999999999997d
+			x: -2.1d
+			y: -0.72d
+		}
+		{
+			corner: false
+			dev: false
+			height: 0.36d
+			hover: [
+				"&eVybavení"
+			]
+			id: "7400D05F5A3D39F3"
+			image: "none"
+			order: 0
+			rotation: 0.0d
+			text_h_align: "center"
+			text_inset: 0
+			text_on_image: true
+			text_shadow: true
+			text_v_align: "center"
+			width: 2.6999999999999997d
+			x: 2.1d
+			y: -0.72d
+		}
+	]
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: [ ]
+			icon: {
+				count: 1
+				id: "minecraft:crafting_table"
+			}
+			id: "13B4CCAD210C2B4C"
+			rewards: [ ]
+			size: 0.6d
+			tasks: [
+				{
+					id: "2B97B9D1B4FA39B0"
+					type: "checkmark"
+				}
+			]
+			x: -2.1d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"13B4CCAD210C2B4C"
+			]
+			icon: {
+				count: 1
+				id: "minecraft:map"
+			}
+			id: "34C570494A397D5B"
+			rewards: [ ]
+			size: 0.6d
+			tasks: [
+				{
+					id: "45763C41ECEA5EAF"
+					type: "checkmark"
+				}
+			]
+			x: -3.3d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"34C570494A397D5B"
+			]
+			icon: {
+				count: 1
+				id: "gravestone:gravestone"
+			}
+			id: "55674030623BD62F"
+			rewards: [ ]
+			size: 0.6d
+			tasks: [
+				{
+					id: "2FF0E204B5555C74"
+					type: "checkmark"
+				}
+			]
+			x: -4.5d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"55674030623BD62F"
+			]
+			icon: {
+				count: 1
+				id: "minecraft:note_block"
+			}
+			id: "6E8F649CDA7F93FF"
+			optional: true
+			rewards: [ ]
+			size: 0.6d
+			tasks: [
+				{
+					id: "77D26DF11A60C154"
+					type: "checkmark"
+				}
+			]
+			x: -5.7d
+			y: 0.0d
+		}
+		{
+			dependencies: [ ]
+			id: "50BD0900C01084DB"
+			rewards: [
+				{
+					id: "767C9FEF585479F8"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+			]
+			size: 0.6d
+			tasks: [
+				{
+					count: 1L
+					id: "4D669DC83C794D5A"
+					item: {
+						count: 1
+						id: "sophisticatedbackpacks:backpack"
+					}
+					type: "item"
+				}
+			]
+			x: 2.1d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"50BD0900C01084DB"
+			]
+			icon: {
+				count: 1
+				id: "waystones:waystone"
+			}
+			id: "725E5E56DE2537FC"
+			rewards: [
+				{
+					id: "774AA3A6F574F288"
+					item: {
+						count: 4
+						id: "waystones:warp_dust"
+					}
+					type: "item"
+				}
+			]
+			size: 0.6d
+			tasks: [
+				{
+					id: "4CB3BFD42802585A"
+					type: "checkmark"
+				}
+			]
+			x: 3.3d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"725E5E56DE2537FC"
+			]
+			id: "2019B61E1434652E"
+			rewards: [
+				{
+					id: "3004A0434CBA251A"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+			size: 0.6d
+			tasks: [
+				{
+					count: 1L
+					id: "4810C7779A4F2467"
+					item: {
+						count: 1
+						id: "naturescompass:naturescompass"
+					}
+					type: "item"
+				}
+				{
+					count: 1L
+					id: "3F7F9E1168A69808"
+					item: {
+						count: 1
+						id: "explorerscompass:explorerscompass"
+					}
+					type: "item"
+				}
+			]
+			x: 4.5d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"2019B61E1434652E"
+			]
+			id: "38D477CF2D33695F"
+			rewards: [
+				{
+					id: "72652700D3A7D454"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+			]
+			size: 0.6d
+			tasks: [
+				{
+					advancement: "minecraft:story/iron_tools"
+					criterion: ""
+					id: "1F8249919266EE1D"
+					type: "advancement"
+				}
+			]
+			x: 5.7d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"38D477CF2D33695F"
+			]
+			id: "6190FFF76DEE4278"
+			rewards: [
+				{
+					id: "61A44B8DEB4BF22C"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+			size: 0.6d
+			tasks: [
+				{
+					advancement: "minecraft:story/mine_diamond"
+					criterion: ""
+					id: "625F0D72D2BAF5CA"
+					type: "advancement"
+				}
+			]
+			x: 6.8999999999999995d
+			y: 0.0d
+		}
+	]
+}

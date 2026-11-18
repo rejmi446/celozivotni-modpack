@@ -1,0 +1,16 @@
+[
+	{
+		"entity": "minecraft:drowned",
+		"weight": 40,
+		"first_day": 0,
+		"last_day": 20,
+		"nbt": "{ArmorItems:[{},{},{},{id:\"minecraft:leather_helmet\",count:1,components:{\"minecraft:unbreakable\":{show_in_tooltip:0b},\"minecraft:dyed_color\":{rgb:3355443,show_in_tooltip:0b}}}],ArmorDropChances:[0.0f,0.0f,0.0f,0.0f]}"
+	},
+	{
+		"entity": "minecraft:drowned",
+		"weight": 3,
+		"first_day": 30,
+		"last_day": 40,
+		"nbt": "{HandItems:[{id:\"minecraft:trident\",count:1},{}],HandDropChances:[0.0f,0.0f],ArmorItems:[{},{},{},{id:\"minecraft:leather_helmet\",count:1,components:{\"minecraft:unbreakable\":{show_in_tooltip:0b},\"minecraft:dyed_color\":{rgb:3355443,show_in_tooltip:0b}}}],ArmorDropChances:[0.0f,0.0f,0.0f,0.0f]}"
+	}
+]

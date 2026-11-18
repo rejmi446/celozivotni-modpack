@@ -1,0 +1,319 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "rozcestnik"
+	group: ""
+	icon: {
+		count: 1
+		id: "minecraft:compass"
+	}
+	id: "7CDB1CF0290EC096"
+	images: [
+		{
+			alpha: 150
+			corner: false
+			dev: false
+			height: 0.96d
+			hover: [
+				"&6Kniha úkolů&r"
+				"Klikni na téma a přeneseš se na jeho stezky."
+			]
+			id: "13440CF421F52952"
+			image: "#101010"
+			order: 0
+			rotation: 0.0d
+			text_h_align: "center"
+			text_inset: 0
+			text_on_image: true
+			text_shadow: true
+			text_v_align: "center"
+			width: 6.4079999999999995d
+			x: 0.0d
+			y: -3.5999999999999996d
+		}
+		{
+			click: "#409310F83E1FC8C2"
+			corner: false
+			dev: false
+			height: 1.7999999999999998d
+			hover: [
+				"Začátky"
+			]
+			id: "2A0D9978259B5215"
+			image: "item:minecraft:book"
+			order: 0
+			rotation: 0.0d
+			text_h_align: "center"
+			text_inset: 0
+			text_on_image: false
+			text_shadow: true
+			text_v_align: "center"
+			width: 1.7999999999999998d
+			x: -3.5999999999999996d
+			y: -1.2d
+		}
+		{
+			click: "#409310F83E1FC8C2"
+			corner: false
+			dev: false
+			height: 0.42d
+			hover: [
+				"Začátky"
+			]
+			id: "3BF591502BDE1BE5"
+			image: "none"
+			order: 0
+			rotation: 0.0d
+			text_h_align: "center"
+			text_inset: 0
+			text_on_image: true
+			text_shadow: true
+			text_v_align: "center"
+			width: 2.4d
+			x: -3.5999999999999996d
+			y: 0.06000000000000005d
+		}
+		{
+			click: "#3951CAD398A1F77D"
+			corner: false
+			dev: false
+			height: 1.7999999999999998d
+			hover: [
+				"Kuchyně"
+			]
+			id: "2ABF4F99A7B62CA3"
+			image: "item:farmersdelight:cooking_pot"
+			order: 0
+			rotation: 0.0d
+			text_h_align: "center"
+			text_inset: 0
+			text_on_image: false
+			text_shadow: true
+			text_v_align: "center"
+			width: 1.7999999999999998d
+			x: 0.0d
+			y: -1.2d
+		}
+		{
+			click: "#3951CAD398A1F77D"
+			corner: false
+			dev: false
+			height: 0.42d
+			hover: [
+				"Kuchyně"
+			]
+			id: "2885AB767429ED36"
+			image: "none"
+			order: 0
+			rotation: 0.0d
+			text_h_align: "center"
+			text_inset: 0
+			text_on_image: true
+			text_shadow: true
+			text_v_align: "center"
+			width: 2.4d
+			x: 0.0d
+			y: 0.06000000000000005d
+		}
+		{
+			click: "#3B7C68A918B17EB0"
+			corner: false
+			dev: false
+			height: 1.7999999999999998d
+			hover: [
+				"Create"
+			]
+			id: "70FC7F6BDB52C888"
+			image: "item:create:cogwheel"
+			order: 0
+			rotation: 0.0d
+			text_h_align: "center"
+			text_inset: 0
+			text_on_image: false
+			text_shadow: true
+			text_v_align: "center"
+			width: 1.7999999999999998d
+			x: 3.5999999999999996d
+			y: -1.2d
+		}
+		{
+			click: "#3B7C68A918B17EB0"
+			corner: false
+			dev: false
+			height: 0.42d
+			hover: [
+				"Create"
+			]
+			id: "269DBA7F76F2AC41"
+			image: "none"
+			order: 0
+			rotation: 0.0d
+			text_h_align: "center"
+			text_inset: 0
+			text_on_image: true
+			text_shadow: true
+			text_v_align: "center"
+			width: 2.4d
+			x: 3.5999999999999996d
+			y: 0.06000000000000005d
+		}
+		{
+			click: "#4F3D1FF1DC999BA0"
+			corner: false
+			dev: false
+			height: 1.7999999999999998d
+			hover: [
+				"Magie"
+			]
+			id: "70A178721ACE5D00"
+			image: "item:irons_spellbooks:iron_spell_book"
+			order: 0
+			rotation: 0.0d
+			text_h_align: "center"
+			text_inset: 0
+			text_on_image: false
+			text_shadow: true
+			text_v_align: "center"
+			width: 1.7999999999999998d
+			x: -3.5999999999999996d
+			y: 2.1d
+		}
+		{
+			click: "#4F3D1FF1DC999BA0"
+			corner: false
+			dev: false
+			height: 0.42d
+			hover: [
+				"Magie"
+			]
+			id: "58979A5AD07DBBA3"
+			image: "none"
+			order: 0
+			rotation: 0.0d
+			text_h_align: "center"
+			text_inset: 0
+			text_on_image: true
+			text_shadow: true
+			text_v_align: "center"
+			width: 2.4d
+			x: -3.5999999999999996d
+			y: 3.36d
+		}
+		{
+			click: "#446A1EAAE4165B8A"
+			corner: false
+			dev: false
+			height: 1.7999999999999998d
+			hover: [
+				"Vesnice a hordy"
+			]
+			id: "1E8D603117CF3B0E"
+			image: "item:minecraft:bell"
+			order: 0
+			rotation: 0.0d
+			text_h_align: "center"
+			text_inset: 0
+			text_on_image: false
+			text_shadow: true
+			text_v_align: "center"
+			width: 1.7999999999999998d
+			x: 0.0d
+			y: 2.1d
+		}
+		{
+			click: "#446A1EAAE4165B8A"
+			corner: false
+			dev: false
+			height: 0.42d
+			hover: [
+				"Vesnice a hordy"
+			]
+			id: "4BA0498DBC4CC00E"
+			image: "none"
+			order: 0
+			rotation: 0.0d
+			text_h_align: "center"
+			text_inset: 0
+			text_on_image: true
+			text_shadow: true
+			text_v_align: "center"
+			width: 2.4d
+			x: 0.0d
+			y: 3.36d
+		}
+		{
+			click: "#5D8AEC37552A5CFE"
+			corner: false
+			dev: false
+			height: 1.7999999999999998d
+			hover: [
+				"Výpravy"
+			]
+			id: "47F314E893A71112"
+			image: "item:minecraft:iron_sword"
+			order: 0
+			rotation: 0.0d
+			text_h_align: "center"
+			text_inset: 0
+			text_on_image: false
+			text_shadow: true
+			text_v_align: "center"
+			width: 1.7999999999999998d
+			x: 3.5999999999999996d
+			y: 2.1d
+		}
+		{
+			click: "#5D8AEC37552A5CFE"
+			corner: false
+			dev: false
+			height: 0.42d
+			hover: [
+				"Výpravy"
+			]
+			id: "1B4BC856A3182ECE"
+			image: "none"
+			order: 0
+			rotation: 0.0d
+			text_h_align: "center"
+			text_inset: 0
+			text_on_image: true
+			text_shadow: true
+			text_v_align: "center"
+			width: 2.4d
+			x: 3.5999999999999996d
+			y: 3.36d
+		}
+	]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: [ ]
+			icon: {
+				count: 1
+				id: "minecraft:book"
+			}
+			id: "5E573857FA1F810B"
+			rewards: [
+				{
+					id: "31F4232DB178FC75"
+					item: {
+						count: 8
+						id: "minecraft:bread"
+					}
+					type: "item"
+				}
+			]
+			shape: "gear"
+			size: 0.8999999999999999d
+			tasks: [
+				{
+					id: "67FF9BDDC1391EBB"
+					type: "checkmark"
+				}
+			]
+			x: 0.0d
+			y: 4.5d
+		}
+	]
+}

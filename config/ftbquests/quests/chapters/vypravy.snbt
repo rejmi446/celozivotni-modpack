@@ -1,0 +1,1788 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "vypravy"
+	group: ""
+	icon: {
+		count: 1
+		id: "minecraft:iron_sword"
+	}
+	id: "5D8AEC37552A5CFE"
+	images: [
+		{
+			corner: false
+			dev: false
+			height: 1.7999999999999998d
+			hover: [
+				"Výpravy"
+			]
+			id: "73251CC2CED23E22"
+			image: "item:minecraft:iron_sword"
+			order: 0
+			rotation: 0.0d
+			text_h_align: "center"
+			text_inset: 0
+			text_on_image: false
+			text_shadow: true
+			text_v_align: "center"
+			width: 1.7999999999999998d
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			alpha: 150
+			corner: false
+			dev: false
+			height: 1.62d
+			hover: [
+				"&6Výpravy&r · žebříček nebezpečí"
+				"Šest úrovní od Overworldu po End. Nic nezamyká, je to rada,"
+				"kam jít s jakou výbavou. Bossy hledej &eExplorer's Compassem&r."
+				"Dungeony a druhy draků jsou volitelné."
+			]
+			id: "67F27BB123A13C69"
+			image: "#101010"
+			order: 0
+			rotation: 0.0d
+			text_h_align: "center"
+			text_inset: 0
+			text_on_image: true
+			text_shadow: true
+			text_v_align: "center"
+			width: 8.388d
+			x: 0.0d
+			y: -7.919999999999999d
+		}
+		{
+			corner: false
+			dev: false
+			height: 0.36d
+			hover: [
+				"&e1 · Overworld"
+			]
+			id: "44BB50848E7DEF56"
+			image: "none"
+			order: 0
+			rotation: 0.0d
+			text_h_align: "center"
+			text_inset: 0
+			text_on_image: true
+			text_shadow: true
+			text_v_align: "center"
+			width: 2.6999999999999997d
+			x: -2.1d
+			y: -5.97d
+		}
+		{
+			corner: false
+			dev: false
+			height: 0.36d
+			hover: [
+				"&e2 · Velké dungeony"
+			]
+			id: "42F17A3CB5F4CAF8"
+			image: "none"
+			order: 0
+			rotation: 0.0d
+			text_h_align: "center"
+			text_inset: 0
+			text_on_image: true
+			text_shadow: true
+			text_v_align: "center"
+			width: 2.6999999999999997d
+			x: -2.1d
+			y: -1.47d
+		}
+		{
+			corner: false
+			dev: false
+			height: 0.36d
+			hover: [
+				"&e3 · Twilight Forest"
+			]
+			id: "43016DA487E75288"
+			image: "none"
+			order: 0
+			rotation: 0.0d
+			text_h_align: "center"
+			text_inset: 0
+			text_on_image: true
+			text_shadow: true
+			text_v_align: "center"
+			width: 2.6999999999999997d
+			x: -2.1d
+			y: 3.03d
+		}
+		{
+			corner: false
+			dev: false
+			height: 0.36d
+			hover: [
+				"&e4 · Aether"
+			]
+			id: "712062C267A631ED"
+			image: "none"
+			order: 0
+			rotation: 0.0d
+			text_h_align: "center"
+			text_inset: 0
+			text_on_image: true
+			text_shadow: true
+			text_v_align: "center"
+			width: 2.6999999999999997d
+			x: 2.1d
+			y: -6.72d
+		}
+		{
+			corner: false
+			dev: false
+			height: 0.36d
+			hover: [
+				"&e5 · Nether"
+			]
+			id: "7DF3AFD7E1748C6F"
+			image: "none"
+			order: 0
+			rotation: 0.0d
+			text_h_align: "center"
+			text_inset: 0
+			text_on_image: true
+			text_shadow: true
+			text_v_align: "center"
+			width: 2.6999999999999997d
+			x: 2.1d
+			y: -3.7199999999999998d
+		}
+		{
+			corner: false
+			dev: false
+			height: 0.36d
+			hover: [
+				"&e5 · Dračí země"
+			]
+			id: "26906F1F45889FAE"
+			image: "none"
+			order: 0
+			rotation: 0.0d
+			text_h_align: "center"
+			text_inset: 0
+			text_on_image: true
+			text_shadow: true
+			text_v_align: "center"
+			width: 2.6999999999999997d
+			x: 2.1d
+			y: -0.72d
+		}
+		{
+			corner: false
+			dev: false
+			height: 0.36d
+			hover: [
+				"&e6 · End a Cataclysm"
+			]
+			id: "51EBEB92E948CE37"
+			image: "none"
+			order: 0
+			rotation: 0.0d
+			text_h_align: "center"
+			text_inset: 0
+			text_on_image: true
+			text_shadow: true
+			text_v_align: "center"
+			width: 2.6999999999999997d
+			x: 2.1d
+			y: 3.78d
+		}
+	]
+	order_index: 6
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: [ ]
+			id: "1BCE43E2E6A6762F"
+			optional: true
+			rewards: [
+				{
+					id: "6929F43F7FEE1D7C"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+			size: 0.6d
+			tasks: [
+				{
+					id: "2E5EE3F870F520A8"
+					structure: "betterdeserttemples:desert_temple"
+					type: "structure"
+				}
+			]
+			x: -2.1d
+			y: -5.25d
+		}
+		{
+			dependencies: [
+				"1BCE43E2E6A6762F"
+			]
+			id: "100E0831C3476478"
+			optional: true
+			rewards: [
+				{
+					id: "36749CBC803538D6"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+			size: 0.6d
+			tasks: [
+				{
+					id: "5D3169B44EABBF73"
+					structure: "betterjungletemples:jungle_temple"
+					type: "structure"
+				}
+			]
+			x: -3.3d
+			y: -5.25d
+		}
+		{
+			dependencies: [
+				"100E0831C3476478"
+			]
+			id: "55CE0D03ECDC55F1"
+			rewards: [
+				{
+					id: "1054B3CBD31C8C17"
+					type: "xp_levels"
+					xp_levels: 12
+				}
+			]
+			shape: "hexagon"
+			size: 0.6d
+			tasks: [
+				{
+					advancement: "mowziesmobs:kill_ferrous_wroughtnaut"
+					criterion: ""
+					id: "7FE01589EA364CB7"
+					type: "advancement"
+				}
+			]
+			x: -4.5d
+			y: -5.25d
+		}
+		{
+			dependencies: [
+				"55CE0D03ECDC55F1"
+			]
+			id: "6049A36CA2655362"
+			rewards: [
+				{
+					id: "33332B3CF03940FF"
+					type: "xp_levels"
+					xp_levels: 12
+				}
+			]
+			shape: "hexagon"
+			size: 0.6d
+			tasks: [
+				{
+					advancement: "mowziesmobs:kill_frostmaw"
+					criterion: ""
+					id: "77AD5140E1677419"
+					type: "advancement"
+				}
+			]
+			x: -5.7d
+			y: -5.25d
+		}
+		{
+			dependencies: [
+				"6049A36CA2655362"
+			]
+			id: "4AD84828FA5FACF3"
+			rewards: [
+				{
+					id: "4685B3356A2AAE5C"
+					type: "xp_levels"
+					xp_levels: 12
+				}
+			]
+			shape: "hexagon"
+			size: 0.6d
+			tasks: [
+				{
+					advancement: "mowziesmobs:kill_umvuthi"
+					criterion: ""
+					id: "699872F21E2ABD87"
+					type: "advancement"
+				}
+			]
+			x: -6.8999999999999995d
+			y: -5.25d
+		}
+		{
+			dependencies: [
+				"4AD84828FA5FACF3"
+			]
+			id: "6BDE48AD0E5C7418"
+			optional: true
+			rewards: [
+				{
+					id: "147F02124BC82740"
+					type: "xp_levels"
+					xp_levels: 8
+				}
+			]
+			size: 0.6d
+			tasks: [
+				{
+					entity: "minecraft:elder_guardian"
+					id: "64E35B1319973CD9"
+					type: "kill"
+					value: 1L
+				}
+			]
+			x: -8.1d
+			y: -5.25d
+		}
+		{
+			dependencies: [
+				"6BDE48AD0E5C7418"
+			]
+			id: "1A1E7DC892E67430"
+			rewards: [
+				{
+					id: "20191F689C3FF115"
+					type: "xp_levels"
+					xp_levels: 12
+				}
+			]
+			shape: "hexagon"
+			size: 0.6d
+			tasks: [
+				{
+					advancement: "mowziesmobs:kill_naga"
+					criterion: ""
+					id: "1109A0A12F64B34E"
+					type: "advancement"
+				}
+			]
+			x: -9.299999999999999d
+			y: -5.25d
+		}
+		{
+			dependencies: [
+				"1A1E7DC892E67430"
+			]
+			id: "120795DDD247F288"
+			rewards: [
+				{
+					id: "14012C13933C9F4A"
+					type: "xp_levels"
+					xp_levels: 12
+				}
+			]
+			shape: "hexagon"
+			size: 0.6d
+			tasks: [
+				{
+					advancement: "mowziesmobs:sculptor_challenge"
+					criterion: ""
+					id: "6DD185C257764FB3"
+					type: "advancement"
+				}
+			]
+			x: -9.299999999999999d
+			y: -3.75d
+		}
+		{
+			dependencies: [
+				"120795DDD247F288"
+			]
+			id: "30EA593782DFD2E8"
+			optional: true
+			rewards: [
+				{
+					id: "1212FB8F1D90A77F"
+					type: "xp_levels"
+					xp_levels: 8
+				}
+			]
+			size: 0.6d
+			tasks: [
+				{
+					id: "42164BE617EB8D14"
+					structure: "betterstrongholds:stronghold"
+					type: "structure"
+				}
+			]
+			x: -8.1d
+			y: -3.75d
+		}
+		{
+			dependencies: [ ]
+			id: "2BA0B75C1F249DE4"
+			optional: true
+			rewards: [
+				{
+					id: "758B1A145AD020E7"
+					type: "xp_levels"
+					xp_levels: 8
+				}
+			]
+			size: 0.6d
+			tasks: [
+				{
+					id: "2DB6576B15EFF9DE"
+					structure: "dungeons_arise:foundry"
+					type: "structure"
+				}
+			]
+			x: -2.1d
+			y: -0.75d
+		}
+		{
+			dependencies: [
+				"2BA0B75C1F249DE4"
+			]
+			id: "70C171C37256AAFF"
+			optional: true
+			rewards: [
+				{
+					id: "5E68DB2909015AE8"
+					type: "xp_levels"
+					xp_levels: 8
+				}
+			]
+			size: 0.6d
+			tasks: [
+				{
+					id: "17A0148D7E1CF3CD"
+					structure: "dungeons_arise:plague_asylum"
+					type: "structure"
+				}
+			]
+			x: -3.3d
+			y: -0.75d
+		}
+		{
+			dependencies: [
+				"70C171C37256AAFF"
+			]
+			id: "7467016EF0342970"
+			optional: true
+			rewards: [
+				{
+					id: "41EF7B05EDD00CB8"
+					type: "xp_levels"
+					xp_levels: 8
+				}
+			]
+			size: 0.6d
+			tasks: [
+				{
+					id: "763469BCA3308AAF"
+					structure: "dungeons_arise:mechanical_nest"
+					type: "structure"
+				}
+			]
+			x: -4.5d
+			y: -0.75d
+		}
+		{
+			dependencies: [
+				"7467016EF0342970"
+			]
+			id: "6E388D5831759D6D"
+			optional: true
+			rewards: [
+				{
+					id: "74CE8D018A92D7E5"
+					type: "xp_levels"
+					xp_levels: 8
+				}
+			]
+			size: 0.6d
+			tasks: [
+				{
+					id: "2EE0CBF673258D9B"
+					structure: "dungeons_arise:heavenly_conqueror"
+					type: "structure"
+				}
+			]
+			x: -5.7d
+			y: -0.75d
+		}
+		{
+			dependencies: [
+				"6E388D5831759D6D"
+			]
+			id: "37F53B6553367252"
+			optional: true
+			rewards: [
+				{
+					id: "7212BAD0117E9C6D"
+					type: "xp_levels"
+					xp_levels: 8
+				}
+			]
+			size: 0.6d
+			tasks: [
+				{
+					id: "1B66E9D2B95B34FA"
+					structure: "illagerinvasion:illager_fort"
+					type: "structure"
+				}
+			]
+			x: -6.8999999999999995d
+			y: -0.75d
+		}
+		{
+			dependencies: [
+				"37F53B6553367252"
+			]
+			id: "12C8A18B5AD16ED2"
+			optional: true
+			rewards: [
+				{
+					id: "4C2A3EB496599AFC"
+					type: "xp_levels"
+					xp_levels: 8
+				}
+			]
+			size: 0.6d
+			tasks: [
+				{
+					id: "54F068FBB9487DA7"
+					structure: "irons_spellbooks:pyromancer_tower"
+					type: "structure"
+				}
+			]
+			x: -8.1d
+			y: -0.75d
+		}
+		{
+			dependencies: [
+				"12C8A18B5AD16ED2"
+			]
+			id: "2256E06DC1EB8D98"
+			optional: true
+			rewards: [
+				{
+					id: "1157058518AD61A1"
+					type: "xp_levels"
+					xp_levels: 8
+				}
+			]
+			size: 0.6d
+			tasks: [
+				{
+					id: "16BC5C1F05482892"
+					structure: "irons_spellbooks:evoker_fort"
+					type: "structure"
+				}
+			]
+			x: -9.299999999999999d
+			y: -0.75d
+		}
+		{
+			dependencies: [
+				"2256E06DC1EB8D98"
+			]
+			id: "5A351F1114E6FC45"
+			rewards: [
+				{
+					id: "7A08D0FF263E72F3"
+					type: "xp_levels"
+					xp_levels: 8
+				}
+			]
+			size: 0.6d
+			tasks: [
+				{
+					advancement: "aquamirae:adventure/find_ice_maze"
+					criterion: ""
+					id: "35AE9A9BE85C38C0"
+					type: "advancement"
+				}
+			]
+			x: -9.299999999999999d
+			y: 0.75d
+		}
+		{
+			dependencies: [
+				"5A351F1114E6FC45"
+			]
+			id: "78BD940BE5F6BD7C"
+			rewards: [
+				{
+					id: "456A72520A6E161D"
+					type: "xp_levels"
+					xp_levels: 12
+				}
+			]
+			shape: "hexagon"
+			size: 0.6d
+			tasks: [
+				{
+					advancement: "aquamirae:adventure/survive_the_shipbreaker"
+					criterion: ""
+					id: "2C0D04D7E06F7D3B"
+					type: "advancement"
+				}
+			]
+			x: -8.1d
+			y: 0.75d
+		}
+		{
+			dependencies: [
+				"78BD940BE5F6BD7C"
+			]
+			id: "79F5B06F4E858508"
+			rewards: [
+				{
+					id: "67ADB5CF0B421565"
+					type: "xp_levels"
+					xp_levels: 25
+				}
+			]
+			shape: "hexagon"
+			size: 0.8999999999999999d
+			tasks: [
+				{
+					entity: "aquamirae:captain_cornelia"
+					id: "2D8CF9063EE34436"
+					type: "kill"
+					value: 1L
+				}
+			]
+			x: -6.8999999999999995d
+			y: 0.75d
+		}
+		{
+			dependencies: [ ]
+			icon: {
+				count: 1
+				id: "minecraft:diamond"
+			}
+			id: "2380C292C79D57CA"
+			rewards: [
+				{
+					id: "6FD6C8B3C8B1764A"
+					type: "xp_levels"
+					xp_levels: 8
+				}
+			]
+			shape: "gear"
+			size: 1.05d
+			tasks: [
+				{
+					dimension: "twilightforest:twilight_forest"
+					id: "16F496ED8165B718"
+					type: "dimension"
+				}
+			]
+			x: -2.1d
+			y: 3.75d
+		}
+		{
+			dependencies: [
+				"2380C292C79D57CA"
+			]
+			id: "77C7AC827B14D1B2"
+			rewards: [
+				{
+					id: "62513B0BDBC97C93"
+					type: "xp_levels"
+					xp_levels: 12
+				}
+			]
+			shape: "hexagon"
+			size: 0.6d
+			tasks: [
+				{
+					advancement: "twilightforest:progress_naga"
+					criterion: ""
+					id: "48799333D429D4C9"
+					type: "advancement"
+				}
+			]
+			x: -3.3d
+			y: 3.75d
+		}
+		{
+			dependencies: [
+				"77C7AC827B14D1B2"
+			]
+			id: "2D03D84196C739C6"
+			rewards: [
+				{
+					id: "5A284EA34F3A0EC2"
+					type: "xp_levels"
+					xp_levels: 12
+				}
+			]
+			shape: "hexagon"
+			size: 0.6d
+			tasks: [
+				{
+					advancement: "twilightforest:progress_lich"
+					criterion: ""
+					id: "2E67BC5F958BDD7D"
+					type: "advancement"
+				}
+			]
+			x: -4.5d
+			y: 3.75d
+		}
+		{
+			dependencies: [
+				"2D03D84196C739C6"
+			]
+			id: "39F5E411049021ED"
+			rewards: [
+				{
+					id: "5BF24D050A5047A9"
+					type: "xp_levels"
+					xp_levels: 12
+				}
+			]
+			shape: "hexagon"
+			size: 0.6d
+			tasks: [
+				{
+					advancement: "twilightforest:progress_labyrinth"
+					criterion: ""
+					id: "541118A05941E880"
+					type: "advancement"
+				}
+			]
+			x: -5.7d
+			y: 3.75d
+		}
+		{
+			dependencies: [
+				"39F5E411049021ED"
+			]
+			id: "1ABA601FD9169689"
+			rewards: [
+				{
+					id: "12C0708E5813C10B"
+					type: "xp_levels"
+					xp_levels: 18
+				}
+			]
+			shape: "hexagon"
+			size: 0.8999999999999999d
+			tasks: [
+				{
+					advancement: "twilightforest:progress_hydra"
+					criterion: ""
+					id: "3D5BAB72D296786A"
+					type: "advancement"
+				}
+			]
+			x: -6.8999999999999995d
+			y: 3.75d
+		}
+		{
+			dependencies: [
+				"1ABA601FD9169689"
+			]
+			id: "13BFF28DBE78CA4D"
+			rewards: [
+				{
+					id: "1A8B0A63C54F7BC6"
+					type: "xp_levels"
+					xp_levels: 18
+				}
+			]
+			shape: "hexagon"
+			size: 0.6d
+			tasks: [
+				{
+					advancement: "twilightforest:progress_knights"
+					criterion: ""
+					id: "4B651E1F8F07DE7E"
+					type: "advancement"
+				}
+			]
+			x: -8.1d
+			y: 3.75d
+		}
+		{
+			dependencies: [
+				"13BFF28DBE78CA4D"
+			]
+			id: "251319AE71295F97"
+			rewards: [
+				{
+					id: "132AC757E3BBF794"
+					type: "xp_levels"
+					xp_levels: 25
+				}
+			]
+			shape: "hexagon"
+			size: 0.8999999999999999d
+			tasks: [
+				{
+					advancement: "twilightforest:progress_ur_ghast"
+					criterion: ""
+					id: "7C5750E63D2916E7"
+					type: "advancement"
+				}
+			]
+			x: -9.299999999999999d
+			y: 3.75d
+		}
+		{
+			dependencies: [
+				"251319AE71295F97"
+			]
+			id: "2DF117F4E41185F2"
+			rewards: [
+				{
+					id: "1B4AFC7B37B80CB0"
+					type: "xp_levels"
+					xp_levels: 12
+				}
+			]
+			shape: "hexagon"
+			size: 0.6d
+			tasks: [
+				{
+					advancement: "twilightforest:progress_yeti"
+					criterion: ""
+					id: "2A810780B73D334B"
+					type: "advancement"
+				}
+			]
+			x: -9.299999999999999d
+			y: 5.25d
+		}
+		{
+			dependencies: [
+				"2DF117F4E41185F2"
+			]
+			id: "213127E412CDBE05"
+			rewards: [
+				{
+					id: "771C0039C0E393A8"
+					type: "xp_levels"
+					xp_levels: 25
+				}
+			]
+			shape: "hexagon"
+			size: 0.8999999999999999d
+			tasks: [
+				{
+					advancement: "twilightforest:progress_glacier"
+					criterion: ""
+					id: "6BBEFE25DEC308CA"
+					type: "advancement"
+				}
+			]
+			x: -8.1d
+			y: 5.25d
+		}
+		{
+			dependencies: [ ]
+			icon: {
+				count: 1
+				id: "minecraft:glowstone"
+			}
+			id: "308884E854080F20"
+			rewards: [
+				{
+					id: "17FD8CD98B3F0504"
+					type: "xp_levels"
+					xp_levels: 8
+				}
+			]
+			shape: "gear"
+			size: 1.05d
+			tasks: [
+				{
+					dimension: "aether:the_aether"
+					id: "6CF8BC1F22CED852"
+					type: "dimension"
+				}
+			]
+			x: 2.1d
+			y: -6.0d
+		}
+		{
+			dependencies: [
+				"308884E854080F20"
+			]
+			id: "1C0B1B6E3956811A"
+			rewards: [
+				{
+					id: "38F06DD0FA90CD72"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+			size: 0.6d
+			tasks: [
+				{
+					advancement: "aether:craft_altar"
+					criterion: ""
+					id: "1A96065820AAF8B8"
+					type: "advancement"
+				}
+			]
+			x: 3.3d
+			y: -6.0d
+		}
+		{
+			dependencies: [
+				"1C0B1B6E3956811A"
+			]
+			id: "71CA260AA1242BC7"
+			rewards: [
+				{
+					id: "6EBB822D6C0634DF"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+			size: 0.6d
+			tasks: [
+				{
+					advancement: "aether:zanite"
+					criterion: ""
+					id: "6743F135F00D330F"
+					type: "advancement"
+				}
+			]
+			x: 4.5d
+			y: -6.0d
+		}
+		{
+			dependencies: [
+				"71CA260AA1242BC7"
+			]
+			id: "3E837DF9739C2563"
+			rewards: [
+				{
+					id: "261ABD1B87260C44"
+					type: "xp_levels"
+					xp_levels: 12
+				}
+			]
+			shape: "hexagon"
+			size: 0.6d
+			tasks: [
+				{
+					advancement: "aether:bronze_dungeon"
+					criterion: ""
+					id: "109B9A809CFCCE3F"
+					type: "advancement"
+				}
+			]
+			x: 5.7d
+			y: -6.0d
+		}
+		{
+			dependencies: [
+				"3E837DF9739C2563"
+			]
+			id: "19CEE65D63450561"
+			rewards: [
+				{
+					id: "4D4820F53A0B5853"
+					type: "xp_levels"
+					xp_levels: 18
+				}
+			]
+			shape: "hexagon"
+			size: 0.6d
+			tasks: [
+				{
+					advancement: "aether:silver_dungeon"
+					criterion: ""
+					id: "4EF1D6B3A4A0696D"
+					type: "advancement"
+				}
+			]
+			x: 6.8999999999999995d
+			y: -6.0d
+		}
+		{
+			dependencies: [
+				"19CEE65D63450561"
+			]
+			id: "32984EF25F01B6C7"
+			rewards: [
+				{
+					id: "3551A4FC687487D2"
+					type: "xp_levels"
+					xp_levels: 8
+				}
+			]
+			size: 0.6d
+			tasks: [
+				{
+					advancement: "aether:enchanted_gravitite"
+					criterion: ""
+					id: "5B45BFC6B1AC5331"
+					type: "advancement"
+				}
+			]
+			x: 8.1d
+			y: -6.0d
+		}
+		{
+			dependencies: [
+				"32984EF25F01B6C7"
+			]
+			id: "1A1D2A89B56D46C2"
+			rewards: [
+				{
+					id: "53739D33CB66AC25"
+					type: "xp_levels"
+					xp_levels: 25
+				}
+			]
+			shape: "hexagon"
+			size: 0.8999999999999999d
+			tasks: [
+				{
+					advancement: "aether:gold_dungeon"
+					criterion: ""
+					id: "29E3B70654E0DD49"
+					type: "advancement"
+				}
+			]
+			x: 9.299999999999999d
+			y: -6.0d
+		}
+		{
+			dependencies: [ ]
+			icon: {
+				count: 1
+				id: "minecraft:netherrack"
+			}
+			id: "639EFC301C1609DF"
+			rewards: [
+				{
+					id: "1FDE32996846D44A"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+			shape: "gear"
+			size: 1.05d
+			tasks: [
+				{
+					advancement: "minecraft:story/enter_the_nether"
+					criterion: ""
+					id: "33B9E72C83F64063"
+					type: "advancement"
+				}
+			]
+			x: 2.1d
+			y: -3.0d
+		}
+		{
+			dependencies: [
+				"639EFC301C1609DF"
+			]
+			id: "173E84AA95A4457B"
+			rewards: [
+				{
+					id: "19EAA2CB1D6265AA"
+					type: "xp_levels"
+					xp_levels: 8
+				}
+			]
+			size: 0.6d
+			tasks: [
+				{
+					advancement: "minecraft:nether/find_fortress"
+					criterion: ""
+					id: "4EAD55A1409E4C2E"
+					type: "advancement"
+				}
+			]
+			x: 3.3d
+			y: -3.0d
+		}
+		{
+			dependencies: [
+				"173E84AA95A4457B"
+			]
+			id: "29F833F6BA3CFB9C"
+			rewards: [
+				{
+					id: "7BAEF210557CD940"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+			size: 0.6d
+			tasks: [
+				{
+					advancement: "minecraft:nether/obtain_blaze_rod"
+					criterion: ""
+					id: "1758AABF835D9E6E"
+					type: "advancement"
+				}
+			]
+			x: 4.5d
+			y: -3.0d
+		}
+		{
+			dependencies: [
+				"29F833F6BA3CFB9C"
+			]
+			id: "528C386223D05C6E"
+			rewards: [
+				{
+					id: "77A640601318A11D"
+					type: "xp_levels"
+					xp_levels: 25
+				}
+			]
+			shape: "hexagon"
+			size: 0.8999999999999999d
+			tasks: [
+				{
+					entity: "minecraft:wither"
+					id: "671E785EC72D5716"
+					type: "kill"
+					value: 1L
+				}
+			]
+			x: 5.7d
+			y: -3.0d
+		}
+		{
+			dependencies: [ ]
+			icon: {
+				count: 1
+				id: "minecraft:crying_obsidian"
+			}
+			id: "192B8ED887CEEA1D"
+			rewards: [
+				{
+					id: "322696077222C855"
+					type: "xp_levels"
+					xp_levels: 8
+				}
+			]
+			shape: "gear"
+			size: 1.05d
+			tasks: [
+				{
+					dimension: "dracizeme:draci_zeme"
+					id: "1A6ED50A6A7E39FF"
+					type: "dimension"
+				}
+			]
+			x: 2.1d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"192B8ED887CEEA1D"
+			]
+			id: "77B076AC98DD7070"
+			rewards: [
+				{
+					id: "1EC48E259CB2498F"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+			size: 0.6d
+			tasks: [
+				{
+					count: 1L
+					id: "27CB0425C940F866"
+					item: {
+						count: 1
+						id: "iceandfire:bestiary"
+					}
+					type: "item"
+				}
+			]
+			x: 3.3d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"77B076AC98DD7070"
+			]
+			id: "2AB66F2533D3B742"
+			rewards: [
+				{
+					id: "1EB1D689E958B598"
+					type: "xp_levels"
+					xp_levels: 12
+				}
+			]
+			shape: "hexagon"
+			size: 0.6d
+			tasks: [
+				{
+					advancement: "iceandfire:iceandfire/kill_cyclops"
+					criterion: ""
+					id: "2E1AAA7C7048D851"
+					type: "advancement"
+				}
+			]
+			x: 4.5d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"2AB66F2533D3B742"
+			]
+			id: "2E163BABBBDDBC81"
+			rewards: [
+				{
+					id: "42A6D6AE6B5DFB03"
+					type: "xp_levels"
+					xp_levels: 12
+				}
+			]
+			shape: "hexagon"
+			size: 0.6d
+			tasks: [
+				{
+					advancement: "iceandfire:iceandfire/gorgon_head"
+					criterion: ""
+					id: "566A031576D95FA7"
+					type: "advancement"
+				}
+			]
+			x: 5.7d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"2E163BABBBDDBC81"
+			]
+			id: "26A5E3B6E775DD9D"
+			rewards: [
+				{
+					id: "134316FE5985686F"
+					type: "xp_levels"
+					xp_levels: 12
+				}
+			]
+			shape: "hexagon"
+			size: 0.6d
+			tasks: [
+				{
+					advancement: "iceandfire:iceandfire/kill_hydra"
+					criterion: ""
+					id: "56216C7277E01F91"
+					type: "advancement"
+				}
+			]
+			x: 6.8999999999999995d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"26A5E3B6E775DD9D"
+			]
+			id: "56A4A8E1660ECB83"
+			rewards: [
+				{
+					id: "67C65997D74619A1"
+					type: "xp_levels"
+					xp_levels: 25
+				}
+			]
+			shape: "hexagon"
+			size: 0.8999999999999999d
+			tasks: [
+				{
+					advancement: "iceandfire:iceandfire/kill_if_dragon"
+					criterion: ""
+					id: "2CB0ECE4C131C067"
+					type: "advancement"
+				}
+			]
+			x: 8.1d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"56A4A8E1660ECB83"
+			]
+			id: "47693523E0557921"
+			optional: true
+			rewards: [
+				{
+					id: "6ABE62614B384F25"
+					type: "xp_levels"
+					xp_levels: 12
+				}
+			]
+			shape: "hexagon"
+			size: 0.6d
+			tasks: [
+				{
+					entity: "iceandfire:fire_dragon"
+					id: "729BB29B74564E23"
+					type: "kill"
+					value: 1L
+				}
+			]
+			x: 9.299999999999999d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"47693523E0557921"
+			]
+			id: "27227E824C3966D3"
+			optional: true
+			rewards: [
+				{
+					id: "632EBD77CD60F58D"
+					type: "xp_levels"
+					xp_levels: 12
+				}
+			]
+			shape: "hexagon"
+			size: 0.6d
+			tasks: [
+				{
+					entity: "iceandfire:ice_dragon"
+					id: "65A5B4FEDF10B6AB"
+					type: "kill"
+					value: 1L
+				}
+			]
+			x: 9.299999999999999d
+			y: 1.5d
+		}
+		{
+			dependencies: [
+				"27227E824C3966D3"
+			]
+			id: "177E22C3243D5A4C"
+			optional: true
+			rewards: [
+				{
+					id: "5CA94E1AB0B1EC2D"
+					type: "xp_levels"
+					xp_levels: 12
+				}
+			]
+			shape: "hexagon"
+			size: 0.6d
+			tasks: [
+				{
+					entity: "iceandfire:lightning_dragon"
+					id: "5D08069E7D1A6C2F"
+					type: "kill"
+					value: 1L
+				}
+			]
+			x: 8.1d
+			y: 1.5d
+		}
+		{
+			dependencies: [
+				"177E22C3243D5A4C"
+			]
+			id: "61E6614FB9FD9472"
+			rewards: [
+				{
+					id: "21B80FD8415934F2"
+					type: "xp_levels"
+					xp_levels: 10
+				}
+			]
+			size: 0.6d
+			tasks: [
+				{
+					advancement: "iceandfire:iceandfire/dragon_egg"
+					criterion: ""
+					id: "379CA99851D44D78"
+					type: "advancement"
+				}
+			]
+			x: 6.8999999999999995d
+			y: 1.5d
+		}
+		{
+			dependencies: [
+				"61E6614FB9FD9472"
+			]
+			id: "625C76FB413F1E08"
+			rewards: [
+				{
+					id: "6873901604A8243B"
+					type: "xp_levels"
+					xp_levels: 10
+				}
+			]
+			size: 0.6d
+			tasks: [
+				{
+					advancement: "iceandfire:iceandfire/dragon_forge_core"
+					criterion: ""
+					id: "5A0F89410A4795BA"
+					type: "advancement"
+				}
+			]
+			x: 5.7d
+			y: 1.5d
+		}
+		{
+			dependencies: [
+				"625C76FB413F1E08"
+			]
+			id: "4930311EFA09E76A"
+			rewards: [
+				{
+					id: "13F16C9DDBA1533E"
+					type: "xp_levels"
+					xp_levels: 25
+				}
+			]
+			size: 0.8999999999999999d
+			tasks: [
+				{
+					advancement: "iceandfire:iceandfire/dragonsteel"
+					criterion: ""
+					id: "27CB64FC01411DB3"
+					type: "advancement"
+				}
+			]
+			x: 4.5d
+			y: 1.5d
+		}
+		{
+			dependencies: [ ]
+			icon: {
+				count: 1
+				id: "minecraft:end_portal_frame"
+			}
+			id: "59ECA318BD8E8D77"
+			rewards: [
+				{
+					id: "3245E166FA3A63BA"
+					type: "xp_levels"
+					xp_levels: 8
+				}
+			]
+			shape: "gear"
+			size: 1.05d
+			tasks: [
+				{
+					advancement: "minecraft:story/enter_the_end"
+					criterion: ""
+					id: "4D1206D345745C35"
+					type: "advancement"
+				}
+			]
+			x: 2.1d
+			y: 4.5d
+		}
+		{
+			dependencies: [
+				"59ECA318BD8E8D77"
+			]
+			id: "3FE541BEB4ABB25A"
+			rewards: [
+				{
+					id: "2AC895F893448D9F"
+					type: "xp_levels"
+					xp_levels: 25
+				}
+			]
+			shape: "hexagon"
+			size: 0.8999999999999999d
+			tasks: [
+				{
+					advancement: "minecraft:end/kill_dragon"
+					criterion: ""
+					id: "2574EAB9A6A71F43"
+					type: "advancement"
+				}
+			]
+			x: 3.3d
+			y: 4.5d
+		}
+		{
+			dependencies: [
+				"3FE541BEB4ABB25A"
+			]
+			id: "744A3FF7480BF969"
+			rewards: [
+				{
+					id: "3DE1AB03EA640F45"
+					type: "xp_levels"
+					xp_levels: 10
+				}
+			]
+			size: 0.6d
+			tasks: [
+				{
+					advancement: "minecraft:end/find_end_city"
+					criterion: ""
+					id: "1136B770DFAF9FBB"
+					type: "advancement"
+				}
+			]
+			x: 4.5d
+			y: 4.5d
+		}
+		{
+			dependencies: [
+				"744A3FF7480BF969"
+			]
+			id: "533F0DE12FC9680B"
+			rewards: [
+				{
+					id: "2E36E37203CB080C"
+					type: "xp_levels"
+					xp_levels: 12
+				}
+			]
+			size: 0.6d
+			tasks: [
+				{
+					advancement: "minecraft:end/elytra"
+					criterion: ""
+					id: "61B7802F2C5C32AA"
+					type: "advancement"
+				}
+			]
+			x: 5.7d
+			y: 4.5d
+		}
+		{
+			dependencies: [
+				"533F0DE12FC9680B"
+			]
+			id: "2DBB1767D7C7252B"
+			rewards: [
+				{
+					id: "290DF24815E43CCE"
+					type: "xp_levels"
+					xp_levels: 25
+				}
+			]
+			shape: "hexagon"
+			size: 0.6d
+			tasks: [
+				{
+					advancement: "cataclysm:kill_ender_guardian"
+					criterion: ""
+					id: "334EC7C42A9B9745"
+					type: "advancement"
+				}
+			]
+			x: 6.8999999999999995d
+			y: 4.5d
+		}
+		{
+			dependencies: [
+				"2DBB1767D7C7252B"
+			]
+			id: "6A3969C0D89EC70B"
+			rewards: [
+				{
+					id: "1E6A4C42D698BCEB"
+					type: "xp_levels"
+					xp_levels: 25
+				}
+			]
+			shape: "hexagon"
+			size: 0.6d
+			tasks: [
+				{
+					advancement: "cataclysm:kill_ignis"
+					criterion: ""
+					id: "7DC52372ECCA0EA9"
+					type: "advancement"
+				}
+			]
+			x: 8.1d
+			y: 4.5d
+		}
+		{
+			dependencies: [
+				"6A3969C0D89EC70B"
+			]
+			id: "392C7C3C30478060"
+			rewards: [
+				{
+					id: "33B587973335C89F"
+					type: "xp_levels"
+					xp_levels: 25
+				}
+			]
+			shape: "hexagon"
+			size: 0.6d
+			tasks: [
+				{
+					advancement: "cataclysm:kill_monstrosity"
+					criterion: ""
+					id: "733337208AA38AA2"
+					type: "advancement"
+				}
+			]
+			x: 9.299999999999999d
+			y: 4.5d
+		}
+		{
+			dependencies: [
+				"392C7C3C30478060"
+			]
+			id: "3867CE92D0B9C8CC"
+			rewards: [
+				{
+					id: "5AFDC15A1850F891"
+					type: "xp_levels"
+					xp_levels: 25
+				}
+			]
+			shape: "hexagon"
+			size: 0.6d
+			tasks: [
+				{
+					advancement: "cataclysm:kill_harbinger"
+					criterion: ""
+					id: "3BF149A520784EC7"
+					type: "advancement"
+				}
+			]
+			x: 9.299999999999999d
+			y: 6.0d
+		}
+		{
+			dependencies: [
+				"3867CE92D0B9C8CC"
+			]
+			id: "714A908E147A73CD"
+			rewards: [
+				{
+					id: "649E1665EF7460EA"
+					type: "xp_levels"
+					xp_levels: 25
+				}
+			]
+			shape: "hexagon"
+			size: 0.6d
+			tasks: [
+				{
+					advancement: "cataclysm:kill_leviathan"
+					criterion: ""
+					id: "793F9468C4867982"
+					type: "advancement"
+				}
+			]
+			x: 8.1d
+			y: 6.0d
+		}
+		{
+			dependencies: [
+				"714A908E147A73CD"
+			]
+			id: "4A928BABE82D4746"
+			rewards: [
+				{
+					id: "5FA204F008041619"
+					type: "xp_levels"
+					xp_levels: 25
+				}
+			]
+			shape: "hexagon"
+			size: 0.6d
+			tasks: [
+				{
+					advancement: "cataclysm:kill_remnant"
+					criterion: ""
+					id: "5CDA2B6B36E9A0BC"
+					type: "advancement"
+				}
+			]
+			x: 6.8999999999999995d
+			y: 6.0d
+		}
+		{
+			dependencies: [
+				"4A928BABE82D4746"
+			]
+			id: "1AA819FEF0FC673E"
+			rewards: [
+				{
+					id: "6E998FD6E4EE1843"
+					type: "xp_levels"
+					xp_levels: 25
+				}
+			]
+			shape: "hexagon"
+			size: 0.6d
+			tasks: [
+				{
+					advancement: "cataclysm:kill_maledictus"
+					criterion: ""
+					id: "5298AD318EADCB0E"
+					type: "advancement"
+				}
+			]
+			x: 5.7d
+			y: 6.0d
+		}
+		{
+			dependencies: [
+				"1AA819FEF0FC673E"
+			]
+			id: "2A4AC69F3BF03ABC"
+			rewards: [
+				{
+					id: "29D69E04A247A544"
+					type: "xp_levels"
+					xp_levels: 25
+				}
+			]
+			shape: "hexagon"
+			size: 0.6d
+			tasks: [
+				{
+					advancement: "cataclysm:kill_scylla"
+					criterion: ""
+					id: "137B21C6F82CA1C8"
+					type: "advancement"
+				}
+			]
+			x: 4.5d
+			y: 6.0d
+		}
+		{
+			dependencies: [
+				"2A4AC69F3BF03ABC"
+			]
+			id: "389B09B2A5AC5AC6"
+			rewards: [
+				{
+					id: "6342F321452B7629"
+					type: "xp_levels"
+					xp_levels: 50
+				}
+			]
+			shape: "gear"
+			size: 1.2d
+			tasks: [
+				{
+					advancement: "cataclysm:kill_all_bosses"
+					criterion: ""
+					id: "7227738DCBE44254"
+					type: "advancement"
+				}
+			]
+			x: 3.3d
+			y: 6.0d
+		}
+	]
+}

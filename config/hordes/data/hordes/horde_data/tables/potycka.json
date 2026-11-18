@@ -1,0 +1,22 @@
+[
+	{
+		"entity": "minecraft:zombie",
+		"weight": 60,
+		"first_day": 0,
+		"last_day": 0,
+		"nbt": "{ArmorItems:[{},{},{},{id:\"minecraft:leather_helmet\",count:1,components:{\"minecraft:unbreakable\":{show_in_tooltip:0b},\"minecraft:dyed_color\":{rgb:3355443,show_in_tooltip:0b}}}],ArmorDropChances:[0.0f,0.0f,0.0f,0.0f]}"
+	},
+	{
+		"entity": "minecraft:husk",
+		"weight": 35,
+		"first_day": 0,
+		"last_day": 0
+	},
+	{
+		"entity": "minecraft:zombie_villager",
+		"weight": 5,
+		"first_day": 0,
+		"last_day": 0,
+		"nbt": "{ArmorItems:[{},{},{},{id:\"minecraft:leather_helmet\",count:1,components:{\"minecraft:unbreakable\":{show_in_tooltip:0b},\"minecraft:dyed_color\":{rgb:3355443,show_in_tooltip:0b}}}],ArmorDropChances:[0.0f,0.0f,0.0f,0.0f]}"
+	}
+]

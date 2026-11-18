@@ -1,0 +1,96 @@
+[
+	{
+		"entity": "minecraft:zombie",
+		"weight": 20,
+		"first_day": 0,
+		"last_day": 0,
+		"nbt": "{ArmorItems:[{},{},{},{id:\"minecraft:leather_helmet\",count:1,components:{\"minecraft:unbreakable\":{show_in_tooltip:0b},\"minecraft:dyed_color\":{rgb:3355443,show_in_tooltip:0b}}}],ArmorDropChances:[0.0f,0.0f,0.0f,0.0f]}"
+	},
+	{
+		"entity": "minecraft:husk",
+		"weight": 15,
+		"first_day": 0,
+		"last_day": 0
+	},
+	{
+		"entity": "minecraft:skeleton",
+		"weight": 12,
+		"first_day": 0,
+		"last_day": 0,
+		"nbt": "{ArmorItems:[{},{},{},{id:\"minecraft:leather_helmet\",count:1,components:{\"minecraft:unbreakable\":{show_in_tooltip:0b},\"minecraft:dyed_color\":{rgb:3355443,show_in_tooltip:0b}}}],ArmorDropChances:[0.0f,0.0f,0.0f,0.0f]}"
+	},
+	{
+		"entity": "minecraft:stray",
+		"weight": 6,
+		"first_day": 0,
+		"last_day": 0,
+		"nbt": "{ArmorItems:[{},{},{},{id:\"minecraft:leather_helmet\",count:1,components:{\"minecraft:unbreakable\":{show_in_tooltip:0b},\"minecraft:dyed_color\":{rgb:3355443,show_in_tooltip:0b}}}],ArmorDropChances:[0.0f,0.0f,0.0f,0.0f]}"
+	},
+	{
+		"entity": "minecraft:bogged",
+		"weight": 4,
+		"first_day": 0,
+		"last_day": 0,
+		"nbt": "{ArmorItems:[{},{},{},{id:\"minecraft:leather_helmet\",count:1,components:{\"minecraft:unbreakable\":{show_in_tooltip:0b},\"minecraft:dyed_color\":{rgb:3355443,show_in_tooltip:0b}}}],ArmorDropChances:[0.0f,0.0f,0.0f,0.0f]}"
+	},
+	{
+		"entity": "minecraft:spider",
+		"weight": 10,
+		"first_day": 0,
+		"last_day": 0
+	},
+	{
+		"entity": "minecraft:cave_spider",
+		"weight": 5,
+		"first_day": 0,
+		"last_day": 0
+	},
+	{
+		"entity": "minecraft:creeper",
+		"weight": 6,
+		"first_day": 0,
+		"last_day": 0
+	},
+	{
+		"entity": "minecraft:witch",
+		"weight": 5,
+		"first_day": 0,
+		"last_day": 0
+	},
+	{
+		"entity": "minecraft:pillager",
+		"weight": 8,
+		"first_day": 0,
+		"last_day": 0
+	},
+	{
+		"entity": "minecraft:vindicator",
+		"weight": 8,
+		"first_day": 0,
+		"last_day": 0
+	},
+	{
+		"entity": "minecraft:wither_skeleton",
+		"weight": 6,
+		"first_day": 0,
+		"last_day": 0
+	},
+	{
+		"entity": "minecraft:zombified_piglin",
+		"weight": 6,
+		"first_day": 0,
+		"last_day": 0
+	},
+	{
+		"entity": "minecraft:evoker",
+		"weight": 2,
+		"first_day": 0,
+		"last_day": 0
+	},
+	{
+		"entity": "minecraft:ravager",
+		"weight": 2,
+		"first_day": 0,
+		"last_day": 0
+	}
+]

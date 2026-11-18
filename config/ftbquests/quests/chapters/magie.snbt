@@ -1,0 +1,373 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "magie"
+	group: ""
+	icon: {
+		count: 1
+		id: "irons_spellbooks:iron_spell_book"
+	}
+	id: "4F3D1FF1DC999BA0"
+	images: [
+		{
+			corner: false
+			dev: false
+			height: 1.7999999999999998d
+			hover: [
+				"Magie"
+			]
+			id: "4BC11D8165982BCF"
+			image: "item:irons_spellbooks:iron_spell_book"
+			order: 0
+			rotation: 0.0d
+			text_h_align: "center"
+			text_inset: 0
+			text_on_image: false
+			text_shadow: true
+			text_v_align: "center"
+			width: 1.7999999999999998d
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			alpha: 150
+			corner: false
+			dev: false
+			height: 1.2900000000000003d
+			hover: [
+				"&6Magie&r"
+				"Kouzla se vpisují do &eknihy kouzel&r. Najdeš je jako svitky"
+				"v kouzelnických věžích a dungeonech, nebo si je vyrobíš."
+			]
+			id: "21D4F40D322B8DF5"
+			image: "#101010"
+			order: 0
+			rotation: 0.0d
+			text_h_align: "center"
+			text_inset: 0
+			text_on_image: true
+			text_shadow: true
+			text_v_align: "center"
+			width: 7.992d
+			x: 0.0d
+			y: -2.67d
+		}
+		{
+			corner: false
+			dev: false
+			height: 0.36d
+			hover: [
+				"&eKouzla"
+			]
+			id: "19D54A21FD72940C"
+			image: "none"
+			order: 0
+			rotation: 0.0d
+			text_h_align: "center"
+			text_inset: 0
+			text_on_image: true
+			text_shadow: true
+			text_v_align: "center"
+			width: 2.6999999999999997d
+			x: -2.1d
+			y: -1.47d
+		}
+		{
+			corner: false
+			dev: false
+			height: 0.36d
+			hover: [
+				"&eZa magií do světa"
+			]
+			id: "37D1D93BBF360C97"
+			image: "none"
+			order: 0
+			rotation: 0.0d
+			text_h_align: "center"
+			text_inset: 0
+			text_on_image: true
+			text_shadow: true
+			text_v_align: "center"
+			width: 2.6999999999999997d
+			x: 2.1d
+			y: -0.72d
+		}
+	]
+	order_index: 4
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: [ ]
+			id: "4E651F284011FF6D"
+			rewards: [
+				{
+					id: "1A0887A1994BB097"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+			]
+			size: 0.6d
+			tasks: [
+				{
+					count: 4L
+					id: "1E45C02435F11AF0"
+					item: {
+						count: 1
+						id: "irons_spellbooks:arcane_essence"
+					}
+					type: "item"
+				}
+			]
+			x: -2.1d
+			y: -0.75d
+		}
+		{
+			dependencies: [
+				"4E651F284011FF6D"
+			]
+			id: "5A528BBD651DB162"
+			rewards: [
+				{
+					id: "4E72BE6DA361A0B6"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+			size: 0.6d
+			tasks: [
+				{
+					advancement: "irons_spellbooks:irons_spellbooks/make_inscription_table"
+					criterion: ""
+					id: "42C0F2FF08ABD381"
+					type: "advancement"
+				}
+			]
+			x: -3.3d
+			y: -0.75d
+		}
+		{
+			dependencies: [
+				"5A528BBD651DB162"
+			]
+			id: "4F25674B8606B328"
+			rewards: [
+				{
+					id: "2BFE27B1C9D63420"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+			]
+			size: 0.6d
+			tasks: [
+				{
+					count: 1L
+					id: "2FE864181E42C212"
+					item: {
+						count: 1
+						id: "irons_spellbooks:scroll"
+					}
+					type: "item"
+				}
+			]
+			x: -4.5d
+			y: -0.75d
+		}
+		{
+			dependencies: [
+				"4F25674B8606B328"
+			]
+			id: "2896707CABAD8E19"
+			rewards: [
+				{
+					id: "2E82EA770C2FC407"
+					type: "xp_levels"
+					xp_levels: 8
+				}
+			]
+			size: 0.8999999999999999d
+			tasks: [
+				{
+					advancement: "irons_spellbooks:irons_spellbooks/spell_book_equip"
+					criterion: ""
+					id: "1381E30EF6EBC3AE"
+					type: "advancement"
+				}
+			]
+			x: -5.7d
+			y: -0.75d
+		}
+		{
+			dependencies: [
+				"2896707CABAD8E19"
+			]
+			id: "424EDB9D7B3BAA7B"
+			rewards: [
+				{
+					id: "4789B142B302D4CC"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+			size: 0.6d
+			tasks: [
+				{
+					advancement: "irons_spellbooks:irons_spellbooks/make_scroll_forge"
+					criterion: ""
+					id: "60904A64956A6136"
+					type: "advancement"
+				}
+			]
+			x: -6.8999999999999995d
+			y: -0.75d
+		}
+		{
+			dependencies: [
+				"424EDB9D7B3BAA7B"
+			]
+			id: "50CFE617A020FDAE"
+			rewards: [
+				{
+					id: "12547410ADC80CA5"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+			size: 0.6d
+			tasks: [
+				{
+					count: 1L
+					id: "37E709FC3B0E1159"
+					item: {
+						count: 1
+						id: "irons_spellbooks:alchemist_cauldron"
+					}
+					type: "item"
+				}
+			]
+			x: -8.1d
+			y: -0.75d
+		}
+		{
+			dependencies: [
+				"50CFE617A020FDAE"
+			]
+			id: "12F0C7E19AE10200"
+			rewards: [
+				{
+					id: "7CD304EF33D6C52A"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+			size: 0.6d
+			tasks: [
+				{
+					advancement: "irons_spellbooks:irons_spellbooks/make_arcane_anvil"
+					criterion: ""
+					id: "2F025AB0E49E2053"
+					type: "advancement"
+				}
+			]
+			x: -8.1d
+			y: 0.75d
+		}
+		{
+			dependencies: [
+				"12F0C7E19AE10200"
+			]
+			id: "70FC4BD822CA9DC9"
+			rewards: [
+				{
+					id: "28CB0966EEEE4D28"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+			size: 0.6d
+			tasks: [
+				{
+					count: 1L
+					id: "309B8E0B247DB986"
+					item: {
+						count: 1
+						id: "irons_spellbooks:mana_ring"
+					}
+					type: "item"
+				}
+			]
+			x: -6.8999999999999995d
+			y: 0.75d
+		}
+		{
+			dependencies: [ ]
+			id: "770D829EDAEB7C12"
+			optional: true
+			rewards: [
+				{
+					id: "14B88136704192ED"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+			size: 0.6d
+			tasks: [
+				{
+					id: "228E02DA26E81A48"
+					structure: "irons_spellbooks:mountain_tower"
+					type: "structure"
+				}
+			]
+			x: 2.1d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"770D829EDAEB7C12"
+			]
+			id: "7E55DB55AEBAE026"
+			rewards: [
+				{
+					id: "132C06F740B1D2A4"
+					type: "xp_levels"
+					xp_levels: 8
+				}
+			]
+			size: 0.6d
+			tasks: [
+				{
+					advancement: "irons_spellbooks:irons_spellbooks/enter_catacombs"
+					criterion: ""
+					id: "23530BD83B11C649"
+					type: "advancement"
+				}
+			]
+			x: 3.3d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"7E55DB55AEBAE026"
+			]
+			id: "508E4D6BC0886788"
+			rewards: [
+				{
+					id: "2E77C79CB8AECFC7"
+					type: "xp_levels"
+					xp_levels: 25
+				}
+			]
+			shape: "hexagon"
+			size: 0.8999999999999999d
+			tasks: [
+				{
+					entity: "irons_spellbooks:dead_king"
+					id: "2A992BCED2CABB3A"
+					type: "kill"
+					value: 1L
+				}
+			]
+			x: 4.5d
+			y: 0.0d
+		}
+	]
+}
