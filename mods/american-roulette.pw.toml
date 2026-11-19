@@ -1,0 +1,13 @@
+name = "American Roulette"
+filename = "american_roulette-1.0.0-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8z6CSIJn/versions/790glLem/american_roulette-1.0.0-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "357d5aa4de57a9c54a708aaaeb55315c5dc4ae9031561b4d244d481d5d0e98fc7bc63b3cacc0516a3a297a4db173fe4e03ef43b97c7ce27528fa6f5145fdb7d2"
+
+[update]
+[update.modrinth]
+mod-id = "8z6CSIJn"
+version = "790glLem"

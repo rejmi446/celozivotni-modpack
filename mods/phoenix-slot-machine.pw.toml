@@ -1,0 +1,13 @@
+name = "Phoenix Slot Machine"
+filename = "phoenix-neoforge-1.0.3+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/SirewTwV/versions/ExBemLGH/phoenix-neoforge-1.0.3%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "b736bc19d0c14173e7d51fc51fa955e6ea2a46374bb7b6d9c01968ae09ceeafc103d7598be584d83df1f2f03c3484846f40206d7def60cf88d7147721607b6d7"
+
+[update]
+[update.modrinth]
+mod-id = "SirewTwV"
+version = "ExBemLGH"
