@@ -578,8 +578,8 @@ hash = "4ce7b2b172bcaa1e82f43362f12ebfa791612432351912f7c47ed3993033ddc0"
 metafile = true
 
 [[files]]
-file = "mods/stavebniprojekty-0.7.0.jar"
-hash = "daad4d7fb8271d92e9b9cb22f308ab9fb08e7927a4183b92a77c5cccdb0bfd3e"
+file = "mods/stavebniprojekty-0.7.1.jar"
+hash = "de712c7479b831f3116abb586026b64502368ed49e3cb9faddb117076c257977"
 
 [[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
