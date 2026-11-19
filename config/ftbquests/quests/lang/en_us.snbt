@@ -35,6 +35,7 @@
 	image.1B4BC856A3182ECE.title: "Výpravy"
 	image.1D12FD6C7709B5DF.title: "Kuchyně"
 	image.1E8D603117CF3B0E.title: "Vesnice a hordy"
+	image.1EA0929FE61513B5.title: "&eStavění"
 	image.21D4F40D322B8DF5.title: "&6Magie&r\nKouzla se vpisují do &eknihy kouzel&r. Najdeš je jako svitky\nv kouzelnických věžích a dungeonech, nebo si je vyrobíš."
 	image.230085E59D663C8B.title: "&ePivo a sýr"
 	image.251350C31D612E9E.title: "&eFarma a kuchyně"
@@ -113,6 +114,12 @@
 	]
 	quest.192B8ED887CEEA1D.quest_subtitle: "Portál z plačícího obsidiánu"
 	quest.192B8ED887CEEA1D.title: "Dračí země"
+	quest.1942ADF7CE4F5AAB.quest_desc: [
+		"Plánkem klikni na &eroh&r hranice a posuň ho, klik na &ehranu&r přidá nový roh, &eShift + klik&r roh odebere."
+		"Uložíš to &a✔&r na hotbaru."
+	]
+	quest.1942ADF7CE4F5AAB.quest_subtitle: "Rohy jdou chytit"
+	quest.1942ADF7CE4F5AAB.title: "Posunutá hranice"
 	quest.19CEE65D63450561.quest_subtitle: "Boss: Královna Valkýr"
 	quest.19CEE65D63450561.title: "Stříbrný dungeon"
 	quest.1A1D2A89B56D46C2.quest_subtitle: "Boss: Sluneční duch"
@@ -129,8 +136,10 @@
 	quest.1AD9BD5A7391F1E7.quest_desc: [
 		"&eRecept&r: kozí roh + shnilé maso + kost + střelný prach."
 		"Horda nemrtvých, která s počtem dní ve světě sílí."
+		""
+		"Odměna za přežití: 12 levelů, diamanty, zlatá jablka, očarovaná kniha, občas totem."
 	]
-	quest.1AD9BD5A7391F1E7.quest_subtitle: "Střední horda, 5 minut"
+	quest.1AD9BD5A7391F1E7.quest_subtitle: "Přežij střední hordu (5 minut)"
 	quest.1AD9BD5A7391F1E7.title: "Válečný roh"
 	quest.1BCE43E2E6A6762F.quest_subtitle: "Pasti a mumie"
 	quest.1BCE43E2E6A6762F.title: "Pouštní chrám"
@@ -216,7 +225,7 @@
 	quest.34C570494A397D5B.quest_desc: [
 		"Vpravo nahoře je minimapa. &eM&r otevře velkou mapu světa, &eB&r přidá bod (waypoint)."
 		""
-		"Na velké mapě jsou i &eoblasti&r (regiony), sem patří stavební projekty."
+		"Na velké mapě jsou barevně i &estavební projekty&r: šedá = plán, oranžová = ve výstavbě, zelená = hotovo."
 	]
 	quest.34C570494A397D5B.quest_subtitle: "Klávesa M"
 	quest.34C570494A397D5B.title: "Mapa a body"
@@ -226,12 +235,14 @@
 	quest.35336E82F8B121EB.quest_subtitle: "Kompost → lepší úroda"
 	quest.35336E82F8B121EB.title: "Bohatá půda"
 	quest.377B7A7907B21E85.quest_desc: [
-		"Hordy přijdou jen, když na ně zatroubíš. Horda jde za tebou, klidně až k základně."
+		"Hordy přijdou jen, když na ně zatroubíš (jen v Overworldu). Horda jde za tebou, klidně až k základně."
 		""
 		"&eRecept&r (bez tvaru): kozí roh + shnilé maso + kost."
 		"Přijdou zombie a husky. Roh po použití zmizí."
+		""
+		"Kdo hordu přežije &ebez smrti&r, dostane od rohu 5 levelů a poklad (železo, zlato, smaragdy…)."
 	]
-	quest.377B7A7907B21E85.quest_subtitle: "Lehká horda, 3 minuty"
+	quest.377B7A7907B21E85.quest_subtitle: "Přežij lehkou hordu (3 minuty)"
 	quest.377B7A7907B21E85.title: "Roh potyčky"
 	quest.37F53B6553367252.title: "Illagerská pevnost"
 	quest.38278C4B9B35EC82.title: "Pánev"
@@ -271,6 +282,13 @@
 	quest.43560C8DDD55B725.quest_subtitle: "[Let's Do] Meadow"
 	quest.43560C8DDD55B725.title: "Sýrárna"
 	quest.47693523E0557921.title: "Ohnivý drak"
+	quest.479D168D56275B2E.quest_desc: [
+		"Když je stavba hotová, nastav v knize stav &eHotovo&r. Všem členům, kteří jsou zrovna ve hře, se úkol splní."
+		""
+		"Zdarma postavené bloky po rozbití nic nedají, takže stavbu „vytěžit“ nejde."
+	]
+	quest.479D168D56275B2E.quest_subtitle: "Dokončený projekt"
+	quest.479D168D56275B2E.title: "Hotovo!"
 	quest.4930311EFA09E76A.quest_subtitle: "Nejlepší kov ve hře"
 	quest.4930311EFA09E76A.title: "Dračí ocel"
 	quest.49B4E6E188F13D33.quest_desc: [
@@ -323,6 +341,14 @@
 	quest.53011A05B66164D8.quest_subtitle: "Základ každé kuchyně"
 	quest.53011A05B66164D8.title: "Kuchyňský nůž"
 	quest.533F0DE12FC9680B.title: "Křídla"
+	quest.5473DCB7F7F57080.quest_desc: [
+		"Napiš &e/gamemode stavba&r: dostaneš creative se všemi &estavebními bloky&r zdarma a můžeš létat kamkoli."
+		"Stavět jde jen v &eprojektu&r, kde jsi členem. Truhly, stroje, rudy ani zbraně tam nejsou."
+		""
+		"Stejným příkazem režim vypneš: vrátí se ti inventář a přistaneš na zemi pod sebou."
+	]
+	quest.5473DCB7F7F57080.quest_subtitle: "/gamemode stavba"
+	quest.5473DCB7F7F57080.title: "Stavební režim"
 	quest.54BFAF352EA7F00D.quest_desc: [
 		"Zkušenosti jako tekutina a očarování na pásu."
 	]
@@ -330,11 +356,12 @@
 	quest.54BFAF352EA7F00D.title: "Kouzlení strojem"
 	quest.554BAC3D72154BEF.quest_desc: [
 		"&eRecept&r: kozí roh + shnilé maso + kost + střelný prach + diamant."
+		"Odměna za přežití: 25 levelů, diamanty, netherit, totem, silné knihy."
 		"Zombie, kostlivci, pavouci, creepeři, čarodějnice, illageři i ravageři."
 		""
 		"&cCreepeři a ravageři ničí bloky&r, doma si to rozmysli."
 	]
-	quest.554BAC3D72154BEF.quest_subtitle: "Těžká horda, 10 minut"
+	quest.554BAC3D72154BEF.quest_subtitle: "Přežij těžkou hordu (10 minut)"
 	quest.554BAC3D72154BEF.title: "Roh zkázy"
 	quest.55674030623BD62F.quest_desc: [
 		"Po smrti se tvoje věci uloží do &ehrobu&r na místě smrti. Klikni na něj a věci jsou zpátky."
@@ -360,6 +387,14 @@
 	]
 	quest.58AD1F8EE0B55B53.quest_subtitle: "Village Bounties"
 	quest.58AD1F8EE0B55B53.title: "Zakázka z nástěnky"
+	quest.59946D1B5FD78A65.quest_desc: [
+		"Ve stavebním režimu je na posledním místě hotbaru &eStavební plán&r."
+		"Pravým tlačítkem začni kreslit a kurzorem objeď okraj oblasti (klidně z výšky). Návrat ke startu = hotovo."
+		""
+		"Pak klikni na &a✔&r a v okně kovadliny napiš název projektu."
+	]
+	quest.59946D1B5FD78A65.quest_subtitle: "Plánek na konci hotbaru"
+	quest.59946D1B5FD78A65.title: "První projekt"
 	quest.59ECA318BD8E8D77.quest_subtitle: "Úroveň 6 · End a Cataclysm"
 	quest.59ECA318BD8E8D77.title: "End"
 	quest.5A351F1114E6FC45.quest_desc: [
@@ -411,6 +446,12 @@
 	]
 	quest.67983F480FEA2AC8.quest_subtitle: "První zdroj síly"
 	quest.67983F480FEA2AC8.title: "Vodní kolo"
+	quest.68060E343080893A.quest_desc: [
+		"&eKniha Správa projektu&r (předposlední místo hotbaru) → Členové → klikni na hlavu hráče."
+		"Členové můžou v projektu stavět ve stavebním režimu."
+	]
+	quest.68060E343080893A.quest_subtitle: "Přidej kamaráda"
+	quest.68060E343080893A.title: "Stavíme spolu"
 	quest.6A3969C0D89EC70B.quest_subtitle: "Hořící aréna v Netheru"
 	quest.6A3969C0D89EC70B.title: "Ignis"
 	quest.6BBF18D7AB844D16.quest_desc: [
@@ -478,10 +519,7 @@
 	task.2911979BCFE31250.title: "Splnil jsem zakázku"
 	task.2B97B9D1B4FA39B0.title: "Umím hledat recepty"
 	task.2FF0E204B5555C74.title: "Rozumím"
-	task.3594CF4E68F7E4A4.title: "Přežil jsem"
-	task.453C1768998E4F4D.title: "Zatroubil jsem"
 	task.45763C41ECEA5EAF.title: "Mám mapu"
-	task.49500881A781E881.title: "Zatroubil jsem"
 	task.4CB3BFD42802585A.title: "Aktivoval jsem waystone"
 	task.67FF9BDDC1391EBB.title: "Přečteno"
 	task.77D26DF11A60C154.title: "Nastaveno"

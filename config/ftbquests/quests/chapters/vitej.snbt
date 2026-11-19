@@ -51,7 +51,7 @@
 			text_v_align: "center"
 			width: 8.784d
 			x: 0.0d
-			y: -1.92d
+			y: -3.42d
 		}
 		{
 			corner: false
@@ -71,7 +71,27 @@
 			text_v_align: "center"
 			width: 2.6999999999999997d
 			x: -2.1d
-			y: -0.72d
+			y: -2.22d
+		}
+		{
+			corner: false
+			dev: false
+			height: 0.36d
+			hover: [
+				"&eStavění"
+			]
+			id: "1EA0929FE61513B5"
+			image: "none"
+			order: 0
+			rotation: 0.0d
+			text_h_align: "center"
+			text_inset: 0
+			text_on_image: true
+			text_shadow: true
+			text_v_align: "center"
+			width: 2.6999999999999997d
+			x: -2.1d
+			y: 0.78d
 		}
 		{
 			corner: false
@@ -113,7 +133,7 @@
 				}
 			]
 			x: -2.1d
-			y: 0.0d
+			y: -1.5d
 		}
 		{
 			dependencies: [
@@ -133,7 +153,7 @@
 				}
 			]
 			x: -3.3d
-			y: 0.0d
+			y: -1.5d
 		}
 		{
 			dependencies: [
@@ -153,7 +173,7 @@
 				}
 			]
 			x: -4.5d
-			y: 0.0d
+			y: -1.5d
 		}
 		{
 			dependencies: [
@@ -174,7 +194,7 @@
 				}
 			]
 			x: -5.7d
-			y: 0.0d
+			y: -1.5d
 		}
 		{
 			dependencies: [ ]
@@ -313,6 +333,145 @@
 			]
 			x: 6.8999999999999995d
 			y: 0.0d
+		}
+		{
+			dependencies: [ ]
+			icon: {
+				count: 1
+				id: "minecraft:bricks"
+			}
+			id: "5473DCB7F7F57080"
+			rewards: [
+				{
+					id: "6BBDAE88DD467F90"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+			]
+			size: 0.6d
+			tasks: [
+				{
+					advancement: "stavebniprojekty:stavebni_rezim"
+					criterion: ""
+					id: "37BCB55C1313C1C7"
+					type: "advancement"
+				}
+			]
+			x: -2.1d
+			y: 1.5d
+		}
+		{
+			dependencies: [
+				"5473DCB7F7F57080"
+			]
+			icon: {
+				count: 1
+				id: "minecraft:paper"
+			}
+			id: "59946D1B5FD78A65"
+			rewards: [
+				{
+					id: "5552F42A072055F6"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+			size: 0.6d
+			tasks: [
+				{
+					advancement: "stavebniprojekty:novy_projekt"
+					criterion: ""
+					id: "47E0D0D81AA7B624"
+					type: "advancement"
+				}
+			]
+			x: -3.3d
+			y: 1.5d
+		}
+		{
+			dependencies: [
+				"59946D1B5FD78A65"
+			]
+			icon: {
+				count: 1
+				id: "minecraft:compass"
+			}
+			id: "1942ADF7CE4F5AAB"
+			rewards: [
+				{
+					id: "26971696F48ADA40"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+			]
+			size: 0.6d
+			tasks: [
+				{
+					advancement: "stavebniprojekty:uprava_hranice"
+					criterion: ""
+					id: "52B41EF47340ACFA"
+					type: "advancement"
+				}
+			]
+			x: -4.5d
+			y: 1.5d
+		}
+		{
+			dependencies: [
+				"1942ADF7CE4F5AAB"
+			]
+			icon: {
+				count: 1
+				id: "minecraft:player_head"
+			}
+			id: "68060E343080893A"
+			rewards: [
+				{
+					id: "3421430AFEC202D7"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+			]
+			size: 0.6d
+			tasks: [
+				{
+					advancement: "stavebniprojekty:clen"
+					criterion: ""
+					id: "62A0E2C42302E51B"
+					type: "advancement"
+				}
+			]
+			x: -5.7d
+			y: 1.5d
+		}
+		{
+			dependencies: [
+				"68060E343080893A"
+			]
+			icon: {
+				count: 1
+				id: "minecraft:emerald"
+			}
+			id: "479D168D56275B2E"
+			rewards: [
+				{
+					id: "2208C7DE63EE548A"
+					type: "xp_levels"
+					xp_levels: 12
+				}
+			]
+			shape: "gear"
+			size: 1.05d
+			tasks: [
+				{
+					advancement: "stavebniprojekty:hotovy_projekt"
+					criterion: ""
+					id: "4B488991B54E2AA3"
+					type: "advancement"
+				}
+			]
+			x: -6.8999999999999995d
+			y: 1.5d
 		}
 	]
 }

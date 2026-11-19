@@ -281,8 +281,10 @@
 			size: 0.6d
 			tasks: [
 				{
+					advancement: "celozivotni:prezil/roh_potycky"
+					criterion: ""
 					id: "49500881A781E881"
-					type: "checkmark"
+					type: "advancement"
 				}
 			]
 			x: 2.1d
@@ -307,8 +309,10 @@
 			size: 0.6d
 			tasks: [
 				{
+					advancement: "celozivotni:prezil/valecny_roh"
+					criterion: ""
 					id: "453C1768998E4F4D"
-					type: "checkmark"
+					type: "advancement"
 				}
 			]
 			x: 3.3d
@@ -334,8 +338,10 @@
 			size: 0.8999999999999999d
 			tasks: [
 				{
+					advancement: "celozivotni:prezil/roh_zkazy"
+					criterion: ""
 					id: "3594CF4E68F7E4A4"
-					type: "checkmark"
+					type: "advancement"
 				}
 			]
 			x: 4.5d
